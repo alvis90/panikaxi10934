@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="1plus1" tvg-name="1+1" tvg-logo="https://p.satfor.pro/picons/ua/1plus1.png" group-title="Украина",1+1
+#EXTINF:-1,1+2
 #EXTGRP:Украина
 https://ott.shara.club:443/alvis90/tHsWaIQvZ5/61
 #EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="1plus1mezhdunarodnyy.ua" tvg-name="1+1 International" tvg-logo="https://p.satfor.pro/picons/ua/1plus1_int.png" group-title="Украина",1+1 International
