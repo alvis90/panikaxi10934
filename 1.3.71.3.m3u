@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:0,РБК-ТВ
+#EXTGRP:новостные
+http://ygk.info/stream/WMAWVMSVDHRBE2/106/index.m3u8
+#EXTINF:0,Пятый Канал
+#EXTGRP:новостные
+http://ygk.info/stream/WMAWVMSVDHRBE2/112/index.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:новостные
+http://ygk.info/stream/WMAWVMSVDHRBE2/507/index.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:новостные
+http://ygk.info/stream/WMAWVMSVDHRBE2/712/index.m3u8
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:новостные
+http://ygk.info/stream/WMAWVMSVDHRBE2/715/index.m3u8
+#EXTINF:0,Пятый Канал (+2)
+#EXTGRP:новостные
+http://ygk.info/stream/WMAWVMSVDHRBE2/746/index.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/102/index.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/103/index.m3u8
+#EXTINF:0,КИНОМИКС
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/509/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/125/index.m3u8
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/126/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/516/index.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/517/index.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/145/index.m3u8
+#EXTINF:0,ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/146/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/148/index.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/547/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/164/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/728/index.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/726/index.m3u8
+#EXTINF:0,ZEE TV
+#EXTGRP:кино
+http://ygk.info/stream/WMAWVMSVDHRBE2/1001/index.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:музыкальные
+http://ygk.info/stream/WMAWVMSVDHRBE2/115/index.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:музыкальные
+http://ygk.info/stream/WMAWVMSVDHRBE2/859/index.m3u8
+#EXTINF:0,История
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/111/index.m3u8
+#EXTINF:0,Моя Планета
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/117/index.m3u8
+#EXTINF:0,Сов. Секретно
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/121/index.m3u8
+#EXTINF:0,Авто Плюс
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/151/index.m3u8
+#EXTINF:0,Кухня ТВ
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/152/index.m3u8
+#EXTINF:0,Время
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/552/index.m3u8
+#EXTINF:0,OCEAN-TV
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/703/index.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:познавательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/532/index.m3u8
+#EXTINF:0,Детский
+#EXTGRP:детские
+http://ygk.info/stream/WMAWVMSVDHRBE2/730/index.m3u8
+#EXTINF:0,Малыш
+#EXTGRP:детские
+http://ygk.info/stream/WMAWVMSVDHRBE2/1041/index.m3u8
+#EXTINF:0,Радость моя
+#EXTGRP:детские
+http://ygk.info/stream/WMAWVMSVDHRBE2/853/index.m3u8
+#EXTINF:0,ЖАРА
+#EXTGRP:развлекательные
+http://ygk.info/stream/WMAWVMSVDHRBE2/105/index.m3u8
+#EXTINF:0,Мир
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/113/index.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/501/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/502/index.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/504/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/506/index.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/127/index.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/128/index.m3u8
+#EXTINF:0,Че
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/513/index.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/514/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/520/index.m3u8
+#EXTINF:0,КВН ТВ
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/546/index.m3u8
+#EXTINF:0,ТВЦ (+2)
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/716/index.m3u8
+#EXTINF:0,ЖИВИ!
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/738/index.m3u8
+#EXTINF:0,Звезда (+2)
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/739/index.m3u8
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/747/index.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/748/index.m3u8
+#EXTINF:0,ТВЦ-Урал
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/834/index.m3u8
+#EXTINF:0,Телекафе
+#EXTGRP:другие
+http://ygk.info/stream/WMAWVMSVDHRBE2/865/index.m3u8
+#EXTINF:0,МАТЧ! СТРАНА
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/107/index.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/123/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/124/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/531/index.m3u8
+#EXTINF:0,KHL
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/519/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/522/index.m3u8
+#EXTINF:0,Матч! Арена
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/528/index.m3u8
+#EXTINF:0,Матч! Игра
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/529/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/530/index.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/535/index.m3u8
+#EXTINF:0,Матч! Боец
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/150/index.m3u8
+#EXTINF:0,Бокс ТВ
+#EXTGRP:спортивные
+http://ygk.info/stream/WMAWVMSVDHRBE2/870/index.m3u8
+#EXTINF:0,Первый HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/204/index.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/205/index.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/206/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/207/index.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/210/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/211/index.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/212/index.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/213/index.m3u8
+#EXTINF:0,Телеканал КХЛ HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/215/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/220/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/222/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/224/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/225/index.m3u8
+#EXTINF:0,HD Life
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/226/index.m3u8
+#EXTINF:0,Trace Urban HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/235/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:HD
+http://ygk.info/stream/WMAWVMSVDHRBE2/237/index.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/945/index.m3u8
+#EXTINF:0,M1
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/949/index.m3u8
+#EXTINF:0,M2
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/950/index.m3u8
+#EXTINF:0,СТБ
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/928/index.m3u8
+#EXTINF:0,ICTV
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/934/index.m3u8
+#EXTINF:0,Новий Канал
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/935/index.m3u8
+#EXTINF:0,Интер
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/1046/index.m3u8
+#EXTINF:0,1+1
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/994/index.m3u8
+#EXTINF:0,2+2
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/995/index.m3u8
+#EXTINF:0,Бiгудi
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/989/index.m3u8
+#EXTINF:0,ПлюсПлюс
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/1002/index.m3u8
+#EXTINF:0,УНІАН
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/1023/index.m3u8
+#EXTINF:0,Футбол 1
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/1109/index.m3u8
+#EXTINF:0,Футбол 2
+#EXTGRP:украинские
+http://ygk.info/stream/WMAWVMSVDHRBE2/1110/index.m3u8
+#EXTINF:-1,Прямой
+#EXTGRP:украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
