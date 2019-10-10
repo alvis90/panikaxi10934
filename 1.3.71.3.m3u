@@ -1,289 +1,694 @@
 #EXTM3U
-#EXTINF:0,РБК-ТВ
-#EXTGRP:новостные
-http://ygk.info/stream/WMAWVMSVDHRBE2/106/index.m3u8
-#EXTINF:0,Пятый Канал
-#EXTGRP:новостные
-http://ygk.info/stream/WMAWVMSVDHRBE2/112/index.m3u8
-#EXTINF:0,Россия-24
-#EXTGRP:новостные
-http://ygk.info/stream/WMAWVMSVDHRBE2/507/index.m3u8
-#EXTINF:0,Мир 24
-#EXTGRP:новостные
-http://ygk.info/stream/WMAWVMSVDHRBE2/712/index.m3u8
-#EXTINF:0,Санкт-Петербург
-#EXTGRP:новостные
-http://ygk.info/stream/WMAWVMSVDHRBE2/715/index.m3u8
-#EXTINF:0,Пятый Канал (+2)
-#EXTGRP:новостные
-http://ygk.info/stream/WMAWVMSVDHRBE2/746/index.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/102/index.m3u8
-#EXTINF:0,СТС Love
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/103/index.m3u8
-#EXTINF:0,КИНОМИКС
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/509/index.m3u8
-#EXTINF:0,КИНОСЕМЬЯ
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/125/index.m3u8
-#EXTINF:0,РОДНОЕ КИНО
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/126/index.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/516/index.m3u8
-#EXTINF:0,Наше новое кино
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/517/index.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/145/index.m3u8
-#EXTINF:0,ИНДИЙСКОЕ КИНО
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/146/index.m3u8
-#EXTINF:0,КИНОСЕРИЯ
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/148/index.m3u8
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/547/index.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/164/index.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/728/index.m3u8
-#EXTINF:0,НСТ
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/726/index.m3u8
-#EXTINF:0,ZEE TV
-#EXTGRP:кино
-http://ygk.info/stream/WMAWVMSVDHRBE2/1001/index.m3u8
-#EXTINF:0,Europa Plus TV
-#EXTGRP:музыкальные
-http://ygk.info/stream/WMAWVMSVDHRBE2/115/index.m3u8
-#EXTINF:0,Шансон ТВ
-#EXTGRP:музыкальные
-http://ygk.info/stream/WMAWVMSVDHRBE2/859/index.m3u8
-#EXTINF:0,История
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/111/index.m3u8
-#EXTINF:0,Моя Планета
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/117/index.m3u8
-#EXTINF:0,Сов. Секретно
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/121/index.m3u8
-#EXTINF:0,Авто Плюс
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/151/index.m3u8
-#EXTINF:0,Кухня ТВ
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/152/index.m3u8
-#EXTINF:0,Время
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/552/index.m3u8
-#EXTINF:0,OCEAN-TV
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/703/index.m3u8
-#EXTINF:0,Усадьба
-#EXTGRP:познавательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/532/index.m3u8
-#EXTINF:0,Детский
-#EXTGRP:детские
-http://ygk.info/stream/WMAWVMSVDHRBE2/730/index.m3u8
-#EXTINF:0,Малыш
-#EXTGRP:детские
-http://ygk.info/stream/WMAWVMSVDHRBE2/1041/index.m3u8
-#EXTINF:0,Радость моя
-#EXTGRP:детские
-http://ygk.info/stream/WMAWVMSVDHRBE2/853/index.m3u8
-#EXTINF:0,ЖАРА
-#EXTGRP:развлекательные
-http://ygk.info/stream/WMAWVMSVDHRBE2/105/index.m3u8
-#EXTINF:0,Мир
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/113/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/501/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/502/index.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/504/index.m3u8
-#EXTINF:0,СТС
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/506/index.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/127/index.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/128/index.m3u8
-#EXTINF:0,Че
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/513/index.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/514/index.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/520/index.m3u8
-#EXTINF:0,КВН ТВ
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/546/index.m3u8
-#EXTINF:0,ТВЦ (+2)
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/716/index.m3u8
-#EXTINF:0,ЖИВИ!
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/738/index.m3u8
-#EXTINF:0,Звезда (+2)
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/739/index.m3u8
-#EXTINF:0,РЕН ТВ (+2)
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/747/index.m3u8
-#EXTINF:0,Сарафан
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/748/index.m3u8
-#EXTINF:0,ТВЦ-Урал
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/834/index.m3u8
-#EXTINF:0,Телекафе
-#EXTGRP:другие
-http://ygk.info/stream/WMAWVMSVDHRBE2/865/index.m3u8
-#EXTINF:0,МАТЧ! СТРАНА
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/107/index.m3u8
-#EXTINF:0,Матч! Планета
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/123/index.m3u8
-#EXTINF:0,Матч! Футбол 1
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/124/index.m3u8
-#EXTINF:0,МАТЧ ПРЕМЬЕР
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/531/index.m3u8
-#EXTINF:0,KHL
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/519/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/522/index.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/528/index.m3u8
-#EXTINF:0,Матч! Игра
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/529/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/530/index.m3u8
-#EXTINF:0,Матч ТВ
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/535/index.m3u8
-#EXTINF:0,Матч! Боец
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/150/index.m3u8
-#EXTINF:0,Бокс ТВ
-#EXTGRP:спортивные
-http://ygk.info/stream/WMAWVMSVDHRBE2/870/index.m3u8
-#EXTINF:0,Первый HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/204/index.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/205/index.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/206/index.m3u8
-#EXTINF:0,Матч! Арена HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/207/index.m3u8
-#EXTINF:0,RTG HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/210/index.m3u8
-#EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/211/index.m3u8
-#EXTINF:0,Матч! HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/212/index.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/213/index.m3u8
-#EXTINF:0,Телеканал КХЛ HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/215/index.m3u8
-#EXTINF:0,МАТЧ ПРЕМЬЕР HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/220/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/222/index.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/224/index.m3u8
-#EXTINF:0,Матч! Игра HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/225/index.m3u8
-#EXTINF:0,HD Life
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/226/index.m3u8
-#EXTINF:0,Trace Urban HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/235/index.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:HD
-http://ygk.info/stream/WMAWVMSVDHRBE2/237/index.m3u8
-#EXTINF:0,5 канал
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/945/index.m3u8
-#EXTINF:0,M1
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/949/index.m3u8
-#EXTINF:0,M2
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/950/index.m3u8
-#EXTINF:0,СТБ
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/928/index.m3u8
-#EXTINF:0,ICTV
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/934/index.m3u8
-#EXTINF:0,Новий Канал
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/935/index.m3u8
-#EXTINF:0,Интер
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/1046/index.m3u8
-#EXTINF:0,1+1
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/994/index.m3u8
-#EXTINF:0,2+2
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/995/index.m3u8
-#EXTINF:0,Бiгудi
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/989/index.m3u8
-#EXTINF:0,ПлюсПлюс
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/1002/index.m3u8
-#EXTINF:0,УНІАН
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/1023/index.m3u8
-#EXTINF:0,Футбол 1
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/1109/index.m3u8
-#EXTINF:0,Футбол 2
-#EXTGRP:украинские
-http://ygk.info/stream/WMAWVMSVDHRBE2/1110/index.m3u8
-#EXTINF:-1,Прямой
-#EXTGRP:украинские
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy" tvg-name="Первый HD" tvg-logo="http://www.ipstream.one/picons/ru/pervyj.png",Первый HD
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/194.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://www.ipstream.one/picons/ru/pervyj.png",Первый канал
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/260.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://www.ipstream.one/picons/ru/rossia-hd.png",Россия 1 HD
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/197.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://www.ipstream.one/picons/ru/rossia1.png",Россия 1
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/266.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://www.ipstream.one/picons/ru/tnt.png",ТНТ HD
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/102.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://www.ipstream.one/picons/ru/tnt.png",ТНТ
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/349.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sts" tvg-name="СТС" tvg-logo="http://www.ipstream.one/picons/ru/sts.png",СТС
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/214.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://www.ipstream.one/picons/ru/ntvmir.png",НТВ Мир
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/296.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://www.ipstream.one/picons/ru/ntv-white.png",НТВ HD
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1136.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://www.ipstream.one/picons/ru/ntv-white.png",НТВ
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/258.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://www.ipstream.one/picons/ru/tvcentr.png",ТВЦ
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/164.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tv3-ru" tvg-name="ТВ-3" tvg-logo="http://www.ipstream.one/picons/ru/tv3.png",ТВ-3
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/263.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://www.ipstream.one/picons/ru/domashny.png",Домашний
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/148.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://www.ipstream.one/picons/ru/5kanal-ru.png",Пятый канал
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1330.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mir" tvg-name="Мир" tvg-logo="http://www.ipstream.one/picons/ru/mir.png",Мир
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2130.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mir-premium" tvg-name="Мир Premium HD" tvg-logo="http://www.ipstream.one/picons/ru/mir.png",Мир Premium HD
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2131.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://www.ipstream.one/picons/ru/rentv.png",РЕН ТВ
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/264.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rentv" tvg-name="РЕН HD" tvg-logo="http://www.ipstream.one/picons/ru/rentv.png",РЕН HD
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1880.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="che" tvg-name="Че" tvg-logo="http://www.ipstream.one/picons/ru/che.png",Че
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/142.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia-k" tvg-name="Россия-Культура" tvg-logo="http://www.ipstream.one/picons/ru/rosskult.png",Россия-Культура
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/196.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="zvezda" tvg-name="Телеканал Звезда" tvg-logo="http://www.ipstream.one/picons/ru/zvezda.png",Телеканал Звезда
+#EXTGRP:Базовые Россия
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/412.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy-pl2" tvg-name="Первый канал (+2)" tvg-logo="http://www.ipstream.one/picons/ru/pervyj_plus2.png",Первый канал (+2)
+#EXTGRP:Базовый Россия +2
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1262.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)" tvg-logo="http://www.ipstream.one/picons/ru/russia1plus2.png",Россия 1 (+2)
+#EXTGRP:Базовый Россия +2
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1267.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt-pl2" tvg-name="ТНТ (+2)" tvg-logo="http://www.ipstream.one/picons/ru/tntplus2.png",ТНТ (+2)
+#EXTGRP:Базовый Россия +2
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1264.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sts-pl2" tvg-name="СТС (+2)" tvg-logo="http://www.ipstream.one/picons/ru/sts-pl2.png",СТС (+2)
+#EXTGRP:Базовый Россия +2
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1263.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://www.ipstream.one/picons/ru/ntvplus2.png",НТВ (+2)
+#EXTGRP:Базовый Россия +2
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1265.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://www.ipstream.one/picons/ru/rentvplus2.png",РЕН ТВ (+2)
+#EXTGRP:Базовый Россия +2
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1266.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy-pl4" tvg-name="Первый канал (+4)" tvg-logo="http://www.ipstream.one/picons/ru/perviyplus4.png",Первый канал (+4)
+#EXTGRP:Базовый Россия +4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1668.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia1-pl4" tvg-name="Россия 1 (+4)" tvg-logo="http://www.ipstream.one/picons/ru/rossiaplus4.png",Россия 1 (+4)
+#EXTGRP:Базовый Россия +4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1667.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt-pl4" tvg-name="ТНТ (+4)" tvg-logo="http://www.ipstream.one/picons/ru/tntplus4.png",ТНТ (+4)
+#EXTGRP:Базовый Россия +4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1671.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sts-pl4" tvg-name="СТС (+4)" tvg-logo="http://www.ipstream.one/picons/ru/sts-pl4.png",СТС (+4)
+#EXTGRP:Базовый Россия +4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1672.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="http://www.ipstream.one/picons/ru/ntvplus4.png",НТВ (+4)
+#EXTGRP:Базовый Россия +4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1670.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rentv-pl4" tvg-name="РЕН ТВ (+4)" tvg-logo="http://www.ipstream.one/picons/ru/rentvpplus4.png",РЕН ТВ (+4)
+#EXTGRP:Базовый Россия +4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1669.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://www.ipstream.one/picons/ru/rtvi.png",RTVi
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/340.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://www.ipstream.one/picons/ru/dozhd.png",Дождь
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/310.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="dozhd" tvg-name="Дождь HD" tvg-logo="http://www.ipstream.one/picons/ru/dozhd.png",Дождь HD
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2128.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="http://www.ipstream.one/picons/ru/moskva24.png",Москва 24
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1432.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rbk" tvg-name="РБК" tvg-logo="http://www.ipstream.one/picons/ru/rbk.png",РБК
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/257.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="360-podmoskovie" tvg-name="360° Подмосковье" tvg-logo="http://www.ipstream.one/picons/ru/360-podmoskovie.png",360° Подмосковье
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2015.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="euronews" tvg-name="Euronews" tvg-logo="http://www.ipstream.one/picons/ru/euronews.ru.png",Euronews
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1468.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://www.ipstream.one/picons/ru/rossia24.png",Россия-24
+#EXTGRP:Новости
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/259.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://www.ipstream.one/picons/ru/kvn-tv.png",КВН ТВ
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/311.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://www.ipstream.one/picons/ru/sts-love.png",СТС Love
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/212.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://www.ipstream.one/picons/ru/tnt4.png",ТНТ4
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/230.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="piatnica" tvg-name="Пятница" tvg-logo="http://www.ipstream.one/picons/ru/pyatnica.png",Пятница
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/265.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="piatnica" tvg-name="Пятница HD" tvg-logo="http://www.ipstream.one/picons/ru/pyatnica.png",Пятница HD
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2142.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="yu" tvg-name="Ю" tvg-logo="http://www.ipstream.one/picons/ru/yu.png",Ю
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/222.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="super" tvg-name="Супер" tvg-logo="http://www.ipstream.one/picons/ru/super.png",Супер
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1809.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://www.ipstream.one/picons/ru/fan.png",FAN
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2075.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="fanhd" tvg-name="FAN HD" tvg-logo="http://www.ipstream.one/picons/ru/fan.png",FAN HD
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2076.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="e-tv" tvg-name="E tv" tvg-logo="http://www.ipstream.one/picons/ru/e-tv.png",E tv
+#EXTGRP:Развлекательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2014.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="http://www.ipstream.one/picons/ru/kino_xit.png",КИНОХИТ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/276.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinomiks" tvg-name="КИНОМИКС" tvg-logo="http://www.ipstream.one/picons/ru/kinomiks.png",КИНОМИКС
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/336.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="http://www.ipstream.one/picons/ru/kinoseria.png",КИНОСЕРИЯ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/284.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="http://www.ipstream.one/picons/ru/kinokomedia.png",КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/273.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="http://www.ipstream.one/picons/ru/kinosvidanie.png",КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/190.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinopokaz-hd1" tvg-name="Шокирующее" tvg-logo="http://www.ipstream.one/picons/ru/shokiruyushchee.png",Шокирующее
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/341.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinopokaz-hd2" tvg-name="Комедийное HD" tvg-logo="http://www.ipstream.one/picons/ru/komediynoe.png",Комедийное HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/126.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="paramount-comedy" tvg-name="Paramount Comedy" tvg-logo="http://www.ipstream.one/picons/ru/paramount_comedy.png",Paramount Comedy
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/337.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="fox" tvg-name="FOX HD" tvg-logo="http://www.ipstream.one/picons/ru/fox.png",FOX HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/109.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="foxlife" tvg-name="Fox Life" tvg-logo="http://www.ipstream.one/picons/ru/foxlife.ru.png",Fox Life
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/330.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="fox" tvg-name="Fox Russia" tvg-logo="http://www.ipstream.one/picons/ru/fox.png",Fox Russia
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/274.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://www.ipstream.one/picons/ru/amedia1.png",Amedia 1
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/140.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://www.ipstream.one/picons/ru/amedia2.png",Amedia 2
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/307.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://www.ipstream.one/picons/ru/amedia-hit.png",Amedia Hit
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/308.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="amedia-premium" tvg-name="AMEDIA Premium HD" tvg-logo="http://www.ipstream.one/picons/ru/amedia-premium.png",AMEDIA Premium HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/242.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://www.ipstream.one/picons/ru/dom-kino-premium.png",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/147.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://www.ipstream.one/picons/ru/eurokino.png",Еврокино
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/150.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="http://www.ipstream.one/picons/ru/kinopremiera.png",КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/129.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kino-tv" tvg-name="КИНО ТВ" tvg-logo="http://www.ipstream.one/picons/ru/kino-tv.png",КИНО ТВ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/157.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://www.ipstream.one/picons/ru/kino-tv.png",Кино ТВ HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2127.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="http://www.ipstream.one/picons/ru/kinosemia.png",КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/192.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="lubimoe-kino" tvg-name="Любимое Кино" tvg-logo="http://www.ipstream.one/picons/ru/nashe-lubimoe-kino.png",Любимое Кино
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/291.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://www.ipstream.one/picons/ru/muzhskoe-kino.png",Мужское кино
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/285.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rodnoe-kino" tvg-name="РОДНОЕ КИНО" tvg-logo="http://www.ipstream.one/picons/ru/rodnoe-kino.png",РОДНОЕ КИНО
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/191.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://www.ipstream.one/picons/ru/nashe-novoe-kino.png",Наше новое кино
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/304.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="domkino" tvg-name="Дом Кино" tvg-logo="http://www.ipstream.one/picons/ru/dom-kino.png",Дом Кино
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/328.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nash-kinoroman" tvg-name="Наш Кинороман HD" tvg-logo="http://www.ipstream.one/picons/ru/nashkinoroman.png",Наш Кинороман HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/127.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nash-detektiv" tvg-name="Наше Крутое HD" tvg-logo="http://www.ipstream.one/picons/ru/nashe-krutoe.png",Наше Крутое HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1331.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sony-scifi" tvg-name="SONY Sci-Fi" tvg-logo="http://www.ipstream.one/picons/ru/sony-scifi.png",SONY Sci-Fi
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/227.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://www.ipstream.one/picons/ru/strashnoe-hd.png",Страшное HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/278.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nst" tvg-name="НСТ" tvg-logo="http://www.ipstream.one/picons/ru/nst.png",НСТ
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1397.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://www.ipstream.one/picons/ru/hollywoodhd.png",Hollywood HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/243.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sony-enter" tvg-name="Sony Entertainment Television" tvg-logo="http://www.ipstream.one/picons/ru/sonyentertainment.ru.png",Sony Entertainment Television
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/226.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tv1000" tvg-name="TV 1000" tvg-logo="http://www.ipstream.one/picons/ru/tv1000.png",TV 1000
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/238.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tv1000-action" tvg-name="TV1000 Action" tvg-logo="http://www.ipstream.one/picons/ru/tv1000action.png",TV1000 Action
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/234.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="vip-comedy" tvg-name="VIP Comedy" tvg-logo="http://www.ipstream.one/picons/ru/vip-comedy.png",VIP Comedy
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/235.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="vip-megahit" tvg-name="VIP Megahit" tvg-logo="http://www.ipstream.one/picons/ru/vip-megahit.png",VIP Megahit
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/236.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="vip-premiere" tvg-name="VIP Premiere" tvg-logo="http://www.ipstream.one/picons/ru/vip-premiere.png",VIP Premiere
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/237.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tv1000-premium" tvg-name="TV1000 Premium" tvg-logo="http://www.ipstream.one/picons/ru/tv1000premium.png",TV1000 Premium
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1984.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tv1000-russkoe-kino" tvg-name="TV1000 Русское кино" tvg-logo="http://www.ipstream.one/picons/ru/tv1000ruskino.png",TV1000 Русское кино
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/239.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://www.ipstream.one/picons/ru/rusbestseller.png",Русский бестселлер
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1579.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://www.ipstream.one/picons/ru/rusdetektiv.png",Русский детектив
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1580.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://www.ipstream.one/picons/ru/ruskomed.png",Русская комедия
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1578.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="russky-illuzion" tvg-name="Русский Иллюзион" tvg-logo="http://www.ipstream.one/picons/ru/rusiluzion.png",Русский Иллюзион
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1629.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://www.ipstream.one/picons/ru/russky-roman.png",Русский роман
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1863.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kinopremium-hd" tvg-name="Кинопремиум HD" tvg-logo="http://www.ipstream.one/picons/ru/kinopremiumhd.png",Кинопремиум HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/128.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://www.ipstream.one/picons/ru/ostrosuzet.png",Остросюжетное HD
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/125.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ultra-hd-cinema" tvg-name="Ultra HD Cinema" tvg-logo="http://www.ipstream.one/picons/ru/ultrahdsinema.png",Ultra HD Cinema
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1557.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://www.ipstream.one/picons/ru/pobeda.png",Победа
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2208.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://www.ipstream.one/picons/ru/ntv-serial.png",НТВ Сериал
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1980.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mir-seriala" tvg-name="Мир Сериала" tvg-logo="http://www.ipstream.one/picons/ru/mir-seriala.png",Мир Сериала
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1990.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="spike" tvg-name="Spike Russia" tvg-logo="http://www.ipstream.one/picons/ru/spike.png",Spike Russia
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1994.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://www.ipstream.one/picons/ru/shottv.png",SHOT TV
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/149.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sony-turbo" tvg-name="Sony Turbo" tvg-logo="http://www.ipstream.one/picons/ru/sony-turbo.png",Sony Turbo
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/225.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="paramount-channel" tvg-name="Paramount Channel" tvg-logo="http://www.ipstream.one/picons/ru/paramount-channel.png",Paramount Channel
+#EXTGRP:Кино
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/314.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://www.ipstream.one/picons/ru/365-dnej.png",365 дней ТВ
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/272.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://www.ipstream.one/picons/ru/bober.png",Бобёр
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1979.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eda-hd" tvg-name="Еда Премиум" tvg-logo="http://www.ipstream.one/picons/ru/eda-hd.png",Еда Премиум
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/131.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://www.ipstream.one/picons/ru/kuhnia.png",Кухня ТВ
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/277.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="food-network" tvg-name="Food Network" tvg-logo="http://www.ipstream.one/picons/ru/food-network.png",Food Network
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2185.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="food-network" tvg-name="Food Network HD" tvg-logo="http://www.ipstream.one/picons/ru/food-network.png",Food Network HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2186.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://www.ipstream.one/picons/ru/viasathistory.ru.png",Viasat History
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/200.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="http://www.ipstream.one/picons/ru/viasatexplore.ru.png",Viasat Explore
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/199.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://www.ipstream.one/picons/ru/viasatnature.ru.png",Viasat Nature
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/201.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="national-geographic" tvg-name="Nat Geographic" tvg-logo="http://www.ipstream.one/picons/ru/natgeo.ru.png",Nat Geographic
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/312.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="national-geographic" tvg-name="National Geographic HD" tvg-logo="http://www.ipstream.one/picons/ru/national-geographic-hd.png",National Geographic HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1439.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="history-hd" tvg-name="History HD" tvg-logo="http://www.ipstream.one/picons/ru/history_hd.png",History HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1434.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="h2" tvg-name="H2" tvg-logo="http://www.ipstream.one/picons/ru/h2.png",H2
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1870.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://www.ipstream.one/picons/ru/ntv-style.png",НТВ Стиль
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1982.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="konny-mir" tvg-name="Конный мир HD" tvg-logo="http://www.ipstream.one/picons/ru/konniymir.png",Конный мир HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1991.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="viasat-nature-history-hd" tvg-name="Viasat Nature/History HD" tvg-logo="http://www.ipstream.one/picons/ru/viasat-nature-history-hd.png",Viasat Nature/History HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1433.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://www.ipstream.one/picons/ru/natgeowild.ru.png",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/180.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://www.ipstream.one/picons/ru/avto24.png",Авто 24
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/240.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="drive" tvg-name="Драйв" tvg-logo="http://www.ipstream.one/picons/ru/drive.png",Драйв
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1869.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://www.ipstream.one/picons/ru/avto-plus.png",Авто Плюс
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/303.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="morskoy" tvg-name="Морской" tvg-logo="http://www.ipstream.one/picons/ru/morskoy.png",Морской
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2202.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="hd-life" tvg-name="HD Life" tvg-logo="http://www.ipstream.one/picons/ru/hdlife.png",HD Life
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/757.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://www.ipstream.one/picons/ru/discoverychannel.ru.png",Discovery Channel
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/245.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="discovery-channel" tvg-name="Discovery Channel HD" tvg-logo="http://www.ipstream.one/picons/ru/discoverychannel.ru.png",Discovery Channel HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/110.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="id-xtra-ru" tvg-name="ID Xtra" tvg-logo="http://www.ipstream.one/picons/ru/idxtra.ru.png",ID Xtra
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/224.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="dtx" tvg-name="DTX" tvg-logo="http://www.ipstream.one/picons/ru/dtx.png",DTX
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/329.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="http://www.ipstream.one/picons/ru/discovery-science.png",Discovery Science
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/145.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="http://www.ipstream.one/picons/ru/discovery-science.png",Discovery Science HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2062.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://www.ipstream.one/picons/ru/travel-channel.png",Travel Channel HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1558.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="travel-adventure" tvg-name="Travel+Adventure" tvg-logo="http://www.ipstream.one/picons/ru/travel-adventure.png",Travel+Adventure
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2122.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="travel-adventure" tvg-name="Travel+Adventure HD" tvg-logo="http://www.ipstream.one/picons/ru/travel-adventure.png",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2123.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nauka-20" tvg-name="Наука 2.0" tvg-logo="http://www.ipstream.one/picons/ru/nauka-20.png",Наука 2.0
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1868.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eureka-hd" tvg-name="Eureka HD" tvg-logo="http://www.ipstream.one/picons/ru/eureka-hd.png",Eureka HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1281.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://www.ipstream.one/picons/ru/ntv-pravo.png",НТВ Право
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1981.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://www.ipstream.one/picons/ru/priklhd.png",Приключения HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1284.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="http://www.ipstream.one/picons/ru/animal-planet.png",Animal Planet
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/306.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="animal-planet" tvg-name="Animal Planet HD" tvg-logo="http://www.ipstream.one/picons/ru/animal-planet.png",Animal Planet HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/141.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://www.ipstream.one/picons/ru/v-mire-zhivotnyx.png",В мире животных HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2124.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="fine-living" tvg-name="Fine Living" tvg-logo="http://www.ipstream.one/picons/ru/fineliving.ru.png",Fine Living
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2001.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="fine-living" tvg-name="Fine living HD" tvg-logo="http://www.ipstream.one/picons/ru/fineliving.ru.png",Fine living HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2002.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tlc" tvg-name="TLC" tvg-logo="http://www.ipstream.one/picons/ru/tlc.ru.png",TLC
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1967.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://www.ipstream.one/picons/ru/tlc.ru.png",TLC HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1966.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="oxota-i-rybalka" tvg-name="Охота и рыбалка" tvg-logo="http://www.ipstream.one/picons/ru/ohotaribalka.png",Охота и рыбалка
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/271.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и Рыболов HD" tvg-logo="http://www.ipstream.one/picons/ru/ohotnikribolov.png",Охотник и Рыболов HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2129.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://www.ipstream.one/picons/ru/dikiy.png",Дикий
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1565.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="moya-planeta" tvg-name="Моя Планета" tvg-logo="http://www.ipstream.one/picons/ru/moya-planeta.png",Моя Планета
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1879.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="viasat-sport" tvg-name="Viasat Sport" tvg-logo="http://www.ipstream.one/picons/ru/viasatsport.ru.png",Viasat Sport
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/169.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="viasat-sport" tvg-name="Viasat Sport HD" tvg-logo="http://www.ipstream.one/picons/ru/viasatsport.ru.png",Viasat Sport HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/166.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-boets" tvg-name="МАТЧ! Боец" tvg-logo="http://www.ipstream.one/picons/ru/match-boec.png",МАТЧ! Боец
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/217.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-nash-sport" tvg-name="МАТЧ! Страна" tvg-logo="http://www.ipstream.one/picons/ru/match-strana.png",МАТЧ! Страна
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/332.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://www.ipstream.one/picons/ru/match.png",Матч ТВ
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/171.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="http://www.ipstream.one/picons/ru/match.png",Матч! HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/165.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-arena" tvg-name="МАТЧ! Арена" tvg-logo="http://www.ipstream.one/picons/ru/match-arena.png",МАТЧ! Арена
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/210.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-arena" tvg-name="МАТЧ! Арена HD" tvg-logo="http://www.ipstream.one/picons/ru/match-arena.png",МАТЧ! Арена HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/104.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-igra" tvg-name="МАТЧ! Игра" tvg-logo="http://www.ipstream.one/picons/ru/match-igra.png",МАТЧ! Игра
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/143.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-igra" tvg-name="МАТЧ! Игра HD" tvg-logo="http://www.ipstream.one/picons/ru/match-igra.png",МАТЧ! Игра HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/117.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-planeta" tvg-name="МАТЧ! Планета" tvg-logo="http://www.ipstream.one/picons/ru/match-planeta.png",МАТЧ! Планета
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/282.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-football1" tvg-name="МАТЧ! Футбол 1" tvg-logo="http://www.ipstream.one/picons/ru/match-football-1.png",МАТЧ! Футбол 1
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/279.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-football1" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="http://www.ipstream.one/picons/ru/match-football-1.png",МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/118.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-football2" tvg-name="МАТЧ! Футбол 2" tvg-logo="http://www.ipstream.one/picons/ru/match-football-2.png",МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/280.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-football2" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="http://www.ipstream.one/picons/ru/match-football-2.png",МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/105.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-football3" tvg-name="МАТЧ! Футбол 3" tvg-logo="http://www.ipstream.one/picons/ru/match-football-3.png",МАТЧ! Футбол 3
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/281.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://www.ipstream.one/picons/ru/match-football-3.png",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/656.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-premier" tvg-name="МАТЧ ПРЕМЬЕР" tvg-logo="http://www.ipstream.one/picons/ru/match-premiere.png",МАТЧ ПРЕМЬЕР
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/181.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="match-premier" tvg-name="МАТЧ ПРЕМЬЕР HD" tvg-logo="http://www.ipstream.one/picons/ru/match-premiere.png",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/720.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://www.ipstream.one/picons/ru/futbol.png",Футбол
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/170.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://www.ipstream.one/picons/ru/box-tv.png",Бокс ТВ
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/168.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="m1global" tvg-name="M-1 Global TV" tvg-logo="http://www.ipstream.one/picons/ru/m-1globaltv.png",M-1 Global TV
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1852.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="" tvg-name="UFC ТВ (TEST)" tvg-logo="http://www.ipstream.one/picons/ru/ufctv.png",UFC ТВ (TEST)
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2189.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kxl" tvg-name="КХЛ" tvg-logo="http://www.ipstream.one/picons/ru/khl.png",КХЛ
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/220.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="kxl-hd" tvg-name="КХЛ HD" tvg-logo="http://www.ipstream.one/picons/ru/khl.png",КХЛ HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/187.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eurosport1-ru" tvg-name="Eurosport" tvg-logo="http://www.ipstream.one/picons/ru/eurosport1.ru.png",Eurosport
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/162.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://www.ipstream.one/picons/ru/eurosport1.ru.png",Eurosport 1 HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/167.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eurosport2-ru" tvg-name="Eurosport 2 HD" tvg-logo="http://www.ipstream.one/picons/ru/eurosport2.ru.png",Eurosport 2 HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/161.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eurosport-gold" tvg-name="Eurosport Gold HD" tvg-logo="http://www.ipstream.one/picons/ru/eurosportgold.png",Eurosport Gold HD
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1584.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="eurosport-4k" tvg-name="Eurosport 4K ( TEST )" tvg-logo="http://www.ipstream.one/picons/ru/eurosport_4k.png",Eurosport 4K ( TEST )
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2147.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="extreme-sports" tvg-name="Extreme Sport" tvg-logo="http://www.ipstream.one/picons/ru/extremesports.ru.png",Extreme Sport
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/163.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="russky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="http://www.ipstream.one/picons/ru/russky-ekstrim.png",Русский Экстрим
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/297.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://www.ipstream.one/picons/ru/tochka-otryva.png",Точка отрыва
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/98.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="setanta-sports-plus" tvg-name="Сетанта Спорт +" tvg-logo="http://www.ipstream.one/picons/ru/setanta-sports-plus.png",Сетанта Спорт +
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/134.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="setanta-sports" tvg-name="Сетанта Спорт" tvg-logo="http://www.ipstream.one/picons/ru/setanta-sports.png",Сетанта Спорт
+#EXTGRP:Спорт
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/133.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mtv-russia" tvg-name="MTV" tvg-logo="http://www.ipstream.one/picons/ru/mtv.ru.png",MTV
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/292.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mtv-dance" tvg-name="MTV Dance" tvg-logo="http://www.ipstream.one/picons/ru/mtv_dance.png",MTV Dance
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/293.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mtv-hits" tvg-name="MTV HITS" tvg-logo="http://www.ipstream.one/picons/ru/mtv_hits.png",MTV HITS
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/244.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mtv-rocks" tvg-name="MTV Rocks" tvg-logo="http://www.ipstream.one/picons/ru/mtv_rocks.png",MTV Rocks
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/333.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="muzyka-pervogo" tvg-name="Музыка первого" tvg-logo="http://www.ipstream.one/picons/ru/muzyka-pervogo.png",Музыка первого
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/294.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://www.ipstream.one/picons/ru/europaplustv.png",Europa Plus TV
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/151.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nashe-tv" tvg-name="Наше ТВ" tvg-logo="http://www.ipstream.one/picons/ru/nashetv.png",Наше ТВ
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1548.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="muztv" tvg-name="МУЗ" tvg-logo="http://www.ipstream.one/picons/ru/muztv.png",МУЗ
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1549.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="http://www.ipstream.one/picons/ru/rutv.png",RU.TV
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/342.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://www.ipstream.one/picons/ru/bridge-tv.png",Bridge TV
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/232.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="bridge-tv-dance" tvg-name="Bridge TV Dance" tvg-logo="http://www.ipstream.one/picons/ru/bridgetvdance.png",Bridge TV Dance
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/290.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="bridge-hd" tvg-name="BRIDGE HD" tvg-logo="http://www.ipstream.one/picons/ru/bridgehd.png",BRIDGE HD
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/111.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt-music" tvg-name="ТНТ MUSIC" tvg-logo="http://www.ipstream.one/picons/ru/tnt-music.png",ТНТ MUSIC
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/158.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="bridge-tv-ruxit" tvg-name="BRIDGE TV Русский Хит" tvg-logo="http://www.ipstream.one/picons/ru/bridgetvrusxit.png",BRIDGE TV Русский Хит
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/248.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="zhara" tvg-name="Жара" tvg-logo="http://www.ipstream.one/picons/ru/zara.png",Жара
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/348.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="bridge-tv-classic" tvg-name="BRIDGE TV Classic" tvg-logo="http://www.ipstream.one/picons/ru/bridgetvclassic.png",BRIDGE TV Classic
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1546.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="vh1-classic" tvg-name="VH-1 Classic" tvg-logo="http://www.ipstream.one/picons/ru/vh1-classic.png",VH-1 Classic
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/298.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="1hd" tvg-name="1HD" tvg-logo="http://www.ipstream.one/picons/ru/1hdmusictelevision.png",1HD
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/132.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="iconcerts" tvg-name="iConcerts HD" tvg-logo="http://www.ipstream.one/picons/ru/iconcerts.png",iConcerts HD
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1895.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://www.ipstream.one/picons/ru/mcm-top.png",MCM Top
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/156.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="la-minor" tvg-name="Ля-минор" tvg-logo="http://www.ipstream.one/picons/ru/laminor.png",Ля-минор
+#EXTGRP:Музыка
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/2013.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://www.ipstream.one/picons/ru/cartoonnetwork.ru.png",Cartoon Network
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/327.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="disney" tvg-name="Disney" tvg-logo="http://www.ipstream.one/picons/ru/disney_channel.png",Disney
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/146.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mult" tvg-name="Мульт" tvg-logo="http://www.ipstream.one/picons/ru/mult.png",Мульт
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/177.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ginger-hd" tvg-name="Ginger HD" tvg-logo="http://www.ipstream.one/picons/ru/ginger-hd.png",Ginger HD
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1282.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="gulli-girl" tvg-name="Gulli Girls" tvg-logo="http://www.ipstream.one/picons/ru/gulligirl.png",Gulli Girls
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/262.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="2na2" tvg-name="2x2" tvg-logo="http://www.ipstream.one/picons/ru/2x2.png",2x2
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/320.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="http://www.ipstream.one/picons/ru/boomerang.ru.png",Boomerang
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1987.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://www.ipstream.one/picons/ru/karusel.png",Карусель
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/155.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://www.ipstream.one/picons/ru/detmir.png",Детский мир
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/355.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="http://www.ipstream.one/picons/ru/nick-jr.png",Nick Jr.
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/313.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="o_" tvg-name="O!" tvg-logo="http://www.ipstream.one/picons/ru/o!.png",O!
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/288.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="jimjam" tvg-name="Jim Jam" tvg-logo="http://www.ipstream.one/picons/ru/jimjam.ru.png",Jim Jam
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/154.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="http://www.ipstream.one/picons/ru/nickelodeon.png",Nickelodeon
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/184.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://www.ipstream.one/picons/ru/tiji.png",Tiji TV
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/316.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tlum-hd" tvg-name="Тлум HD" tvg-logo="http://www.ipstream.one/picons/ru/tlumhd.png",Тлум HD
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/241.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://www.ipstream.one/picons/ru/stskids.png",СТС Kids HD
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1992.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="multik-hd" tvg-name="Мультик HD" tvg-logo="http://www.ipstream.one/picons/ru/multik-hd.png",Мультик HD
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1283.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="multimuzyka" tvg-name="Мультимузыка" tvg-logo="http://www.ipstream.one/picons/ru/multimuzyka.png",Мультимузыка
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/595.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="detsky" tvg-name="Детский" tvg-logo="http://www.ipstream.one/picons/ru/detskiy.png",Детский
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/1853.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="mama" tvg-name="Мама" tvg-logo="http://www.ipstream.one/picons/ru/mama.png",Мама
+#EXTGRP:Детские
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/119.m3u8
