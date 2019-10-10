@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,Трофей HD
+#EXTGRP:Українські
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
 #EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="1plus1" tvg-name="1+1" tvg-logo="https://p.satfor.pro/picons/ua/1plus1.png" group-title="Украина",1+1
 #EXTGRP:Украина
 https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/61.m3u8
