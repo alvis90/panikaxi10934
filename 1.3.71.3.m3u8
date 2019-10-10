@@ -14,25 +14,3 @@ https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/28.m3u8
 #EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="112.ua" tvg-name="112 Украина" tvg-logo="https://p.satfor.pro/picons/220x132/112hd.png" group-title="Украина",112 Украина
 #EXTGRP:Украина
 https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/58.m3u8
-
-#EXTINF:-1,HIT
-#EXTGRP:Общие
-https://webhalpme.ru/hit.mp4
-#EXTINF:-1,Bridge TV
-#EXTGRP:Музыка
-http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:-1,Bridge TV Русский хит
-#EXTGRP:Музыка
-http://ott-cdn.ucom.am/s78/04.m3u8
-#EXTINF:-1,СТС
-#EXTGRP:Общие
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:Общие
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1,Fine Living
-#EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s51/04.m3u8
-#EXTINF:-1,Food Network
-#EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s18/04.m3u8
