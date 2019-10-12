@@ -22,22 +22,3 @@ https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/s
 #EXTINF:-1 ,НТВ HD
 #EXTGRP:Базовые Россия
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntvHD/video.m3u8
-
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy-pl2" tvg-name="Первый канал (+2)" tvg-logo="http://www.ipstream.one/picons/ru/pervyj_plus2.png",Первый канал (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.club:80/live/panikahi/09LPykBF7p/1262.m3u8
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)" tvg-logo="http://www.ipstream.one/picons/ru/russia1plus2.png",Россия 1 (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.club:80/live/panikahi/09LPykBF7p/1267.m3u8
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="tnt-pl2" tvg-name="ТНТ (+2)" tvg-logo="http://www.ipstream.one/picons/ru/tntplus2.png",ТНТ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.club:80/live/panikahi/09LPykBF7p/1264.m3u8
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="sts-pl2" tvg-name="СТС (+2)" tvg-logo="http://www.ipstream.one/picons/ru/sts-pl2.png",СТС (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.club:80/live/panikahi/09LPykBF7p/1263.m3u8
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://www.ipstream.one/picons/ru/ntvplus2.png",НТВ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.club:80/live/panikahi/09LPykBF7p/1265.m3u8
-#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://www.ipstream.one/picons/ru/rentvplus2.png",РЕН ТВ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.club:80/live/panikahi/09LPykBF7p/1266.m3u8
