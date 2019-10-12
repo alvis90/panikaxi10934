@@ -1,12 +1,54 @@
 #EXTM3U
-#EXTINF:0,1+1
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy" tvg-name="Первый HD" tvg-logo="http://www.ipstream.one/picons/ru/pervyj.png",Первый HD
+#EXTGRP:Тест 3
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/194.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://www.ipstream.one/picons/ru/pervyj.png",Первый канал
+#EXTGRP:Тест 3
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/260.m3u8
+
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Тест 4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/197.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Тест 4
+http://ott.shara.club:80/live/panikahi/09LPykBF7p/266.m3u8
+
+#EXTINF:-1,Дорама
+#EXTGRP:Тест 5
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1,Tiji
+#EXTGRP:Тест 5
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:0,Viasat Explore
+#EXTGRP:Тест 6
+http://ott-cdn.ucom.am/s72/04.m3u8
+#EXTINF:0,Viasat History
+#EXTGRP:Тест 6
+http://ott-cdn.ucom.am/s70/04.m3u8
+
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="1plus1" tvg-name="1+1" tvg-logo="https://p.satfor.pro/picons/ua/1plus1.png" group-title="Украина",1+1
 #EXTGRP:ТЕСТ1
+https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/61.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="1plus1mezhdunarodnyy.ua" tvg-name="1+1 International" tvg-logo="https://p.satfor.pro/picons/ua/1plus1_int.png" group-title="Украина",1+1 International
+#EXTGRP:ТЕСТ1
+https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/29.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="2plus2.ua" tvg-name="2+2" tvg-logo="https://p.satfor.pro/picons/ua/2plus2.png" group-title="Украина",2+2
+#EXTGRP:ТЕСТ1
+https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/28.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="112.ua" tvg-name="112 Украина" tvg-logo="https://p.satfor.pro/picons/220x132/112hd.png" group-title="Украина",112 Украина
+#EXTGRP:ТЕСТ1
+https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/58.m3u8
+#EXTINF:0 timeshift="2" catchup="shift" catchup-days="2" catchup="XC" tvg-id="112.ua" tvg-name="112 Украина HD" tvg-logo="https://p.satfor.pro/picons/220x132/112hd.png" group-title="Украина",112 Украина HD
+#EXTGRP:ТЕСТ1
+https://ott.shara.club:443/live/alvis90/tHsWaIQvZ5/1988.m3u8
+#EXTINF:0,1+1
+#EXTGRP:ТЕСТ2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1_ua/video.m3u8
 #EXTINF:0,1+1 International
-#EXTGRP:ТЕСТ1
+#EXTGRP:ТЕСТ2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1mezhdunarodnyy_ua/video.m3u8
 #EXTINF:0,2+2
-#EXTGRP:ТЕСТ1
+#EXTGRP:ТЕСТ2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/2plus2_ua/video.m3u8
 
 #EXTINF:0,Discovery
