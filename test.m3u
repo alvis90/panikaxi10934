@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0,1+1
+#EXTGRP:ТЕСТ1
+https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1_ua/video.m3u8
+#EXTINF:0,1+1 International
+#EXTGRP:ТЕСТ1
+https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1mezhdunarodnyy_ua/video.m3u8
+#EXTINF:0,2+2
+#EXTGRP:ТЕСТ1
+https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/2plus2_ua/video.m3u8
+
 #EXTINF:0,Discovery
 #EXTGRP:ТЕСТ
 http://213.174.8.7:8000/play/24/index.m3u8
