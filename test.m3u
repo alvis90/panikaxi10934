@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-source="?utc=${start}"
+#EXTM3U
 #EXTINF:0,Discovery
 http://213.174.8.7:8000/play/24/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -10,150 +10,102 @@ http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/136/index.m3u8
 #EXTINF:-1,DTX HD
 http://212.12.194.10/dtxhd/live.m3u8
 
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="1plus1_ua" tvg-name="1+1" tvg-logo="http://p.satfor.pro/picons/ua/1plus1.png" group-title="Украина",1+1
-#EXTGRP:Украина
+#EXTM3U
+#EXTINF:0,1+1
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="1plus1mezhdunarodnyy_ua" tvg-name="1+1 International" tvg-logo="http://p.satfor.pro/picons/ua/1plus1_int.png" group-title="Украина",1+1 International
-#EXTGRP:Украина
+#EXTINF:0,1+1 International
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1mezhdunarodnyy_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="2plus2_ua" tvg-name="2+2" tvg-logo="http://p.satfor.pro/picons/ua/2plus2.png" group-title="Украина",2+2
-#EXTGRP:Украина
+#EXTINF:0,2+2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/2plus2_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="112.ua" tvg-name="112 Украина" tvg-logo="http://p.satfor.pro/picons/220x132/112hd.png" group-title="Украина",112 Украина
-#EXTGRP:Украина
+#EXTINF:0,112 Украина
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/112_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="112hd_ua" tvg-name="112 Украина HD" tvg-logo="http://p.satfor.pro/picons/220x132/112hd.png" group-title="Украина",112 Украина HD
-#EXTGRP:Украина
+#EXTINF:0,112 Украина HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/112hd_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ukraina_ua" tvg-name="Україна" tvg-logo="http://p.satfor.pro/picons/220x132/ukrainasd.png" group-title="Украина",Україна
-#EXTGRP:Украина
+#EXTINF:0,Україна
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/ukraina_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="pervij_ua" tvg-name="UA: Перший HD" tvg-logo="http://p.satfor.pro/picons/220x132/ua.png" group-title="Украина",UA: Перший HD
-#EXTGRP:Украина
+#EXTINF:0,UA: Перший HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/pervij_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="priamyj" tvg-name="Прямий" tvg-logo="http://p.satfor.pro/picons/ru/pryamiy.png" group-title="Украина",Прямий
-#EXTGRP:Украина
+#EXTINF:0,Прямий
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/priamyj_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="donbass-ua" tvg-name="Донбасс" tvg-logo="http://p.satfor.pro/picons/ua/donbass.png" group-title="Украина",Донбасс
-#EXTGRP:Украина
+#EXTINF:0,Донбасс
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/donbass-ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="inter_ua" tvg-name="Iнтер" tvg-logo="http://p.satfor.pro/picons/ua/inter-ua.png" group-title="Украина",Iнтер
-#EXTGRP:Украина
+#EXTINF:0,Iнтер
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/inter_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tet.ua" tvg-name="TET" tvg-logo="http://p.satfor.pro/picons/ua/tet.png" group-title="Украина",TET
-#EXTGRP:Украина
+#EXTINF:0,TET
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/tet_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="5kanal_ua" tvg-name="5 канал (Украина)" tvg-logo="http://p.satfor.pro/picons/ua/5chukr.png" group-title="Украина",5 канал (Украина)
-#EXTGRP:Украина
+#EXTINF:0,5 канал (Украина)
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/5kanal_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="novikanal.ua" tvg-name="Новий канал" tvg-logo="http://p.satfor.pro/picons/ua/novychannel.png" group-title="Украина",Новий канал
-#EXTGRP:Украина
+#EXTINF:0,Новий канал
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/novikanal_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="hth.ua" tvg-name="НТН" tvg-logo="http://p.satfor.pro/picons/ua/ntn.png" group-title="Украина",НТН
-#EXTGRP:Украина
+#EXTINF:0,НТН
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/hth_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="k1.ua" tvg-name="K1" tvg-logo="http://p.satfor.pro/picons/ua/k1-ua.png" group-title="Украина",K1
-#EXTGRP:Украина
+#EXTINF:0,K1
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/k1_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="k2.ua" tvg-name="K2" tvg-logo="http://p.satfor.pro/picons/ua/k2-ua.png" group-title="Украина",K2
-#EXTGRP:Украина
+#EXTINF:0,K2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/k2_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="enterfilm.ua" tvg-name="Enter-фільм" tvg-logo="http://p.satfor.pro/picons/ua/enterfilm.png" group-title="Украина",Enter-фільм
-#EXTGRP:Украина
+#EXTINF:0,Enter-фільм
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/enterfilm_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kvartal-tv" tvg-name="Квартал ТВ" tvg-logo="http://p.satfor.pro/picons/ua/kvartaltv.png" group-title="Украина",Квартал ТВ
-#EXTGRP:Украина
+#EXTINF:0,Квартал ТВ
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/kvartal-tv_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="epoque" tvg-name="EPOQUE" tvg-logo="http://p.satfor.pro/picons/ua/epoque.png" group-title="Украина",EPOQUE
-#EXTGRP:Украина
+#EXTINF:0,EPOQUE
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/epoque_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="trofey" tvg-name="ТРОФЕЙ" tvg-logo="http://p.satfor.pro/picons/ua/trofey.png" group-title="Украина",ТРОФЕЙ
-#EXTGRP:Украина
+#EXTINF:0,ТРОФЕЙ
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/trofey_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mera.ua" tvg-name="Мега" tvg-logo="http://p.satfor.pro/picons/ua/mega-ua.png" group-title="Украина",Мега
-#EXTGRP:Украина
+#EXTINF:0,Мега
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/mera_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="musicbox.ua" tvg-name="Music Box UA" tvg-logo="http://p.satfor.pro/picons/ua/music-box-ua.png" group-title="Украина",Music Box UA
-#EXTGRP:Украина
+#EXTINF:0,Music Box UA
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/musicbox_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nlo.ua" tvg-name="НЛО TV" tvg-logo="http://p.satfor.pro/picons/ua/nlo.png" group-title="Украина",НЛО TV
-#EXTGRP:Украина
+#EXTINF:0,НЛО TV
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/nlo_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="plyusplyus.ua" tvg-name="ПлюсПлюс" tvg-logo="http://p.satfor.pro/picons/ua/plusplus.png" group-title="Украина",ПлюсПлюс
-#EXTGRP:Украина
+#EXTINF:0,ПлюсПлюс
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/plyusplyus_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="maxxitv.ua" tvg-name="MAXXI TV" tvg-logo="http://p.satfor.pro/picons/ua/maxxitv.png" group-title="Украина",MAXXI TV
-#EXTGRP:Украина
+#EXTINF:0,MAXXI TV
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/maxxitv_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="bolt" tvg-name="Болт HD" tvg-logo="http://p.satfor.pro/picons/ru/bolt.png" group-title="Украина",Болт HD
-#EXTGRP:Украина
+#EXTINF:0,Болт HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/bolt_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="milady-television" tvg-name="MiLady Television" tvg-logo="http://p.satfor.pro/picons/ua/miladytelevision.png" group-title="Украина",MiLady Television
-#EXTGRP:Украина
+#EXTINF:0,MiLady Television
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/milady-television_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nauka_ua" tvg-name="Nauka" tvg-logo="http://p.satfor.pro/picons/ua/nauka.png" group-title="Украина",Nauka
-#EXTGRP:Украина
+#EXTINF:0,Nauka
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/nauka_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="24.ua" tvg-name="24 канал" tvg-logo="http://p.satfor.pro/picons/ua/24kanal.png" group-title="Украина",24 канал
-#EXTGRP:Украина
+#EXTINF:0,24 канал
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/24_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="newsone_ua" tvg-name="NewsOne" tvg-logo="http://p.satfor.pro/picons/ua/newsone.png" group-title="Украина",NewsOne
-#EXTGRP:Украина
+#EXTINF:0,NewsOne
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/newsone_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="newsnetwork" tvg-name="Rabinovich tv" tvg-logo="http://p.satfor.pro/picons/ua/rabinovich.jpg" group-title="Украина",Rabinovich tv
-#EXTGRP:Украина
+#EXTINF:0,Rabinovich tv
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/rabinovich_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fauna_ua" tvg-name="Фауна" tvg-logo="http://p.satfor.pro/picons/ua/fauna.png" group-title="Украина",Фауна
-#EXTGRP:Украина
+#EXTINF:0,Фауна
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/fauna_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rti.ua" tvg-name="RTi" tvg-logo="http://p.satfor.pro/picons/ua/rti.png" group-title="Украина",RTi
-#EXTGRP:Украина
+#EXTINF:0,RTi
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/rti_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sonce.ua" tvg-name="Сонце" tvg-logo="http://p.satfor.pro/picons/ua/sonce.png" group-title="Украина",Сонце
-#EXTGRP:Украина
+#EXTINF:0,Сонце
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/sonce_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="uniantv.ua" tvg-name="УНІАН" tvg-logo="http://p.satfor.pro/picons/ua/uniantv.png" group-title="Украина",УНІАН
-#EXTGRP:Украина
+#EXTINF:0,УНІАН
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/uniantv_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="bigudi.ua" tvg-name="Бігуді" tvg-logo="http://p.satfor.pro/picons/ua/bigudi.png" group-title="Украина",Бігуді
-#EXTGRP:Украина
+#EXTINF:0,Бігуді
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/bigudi_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="" tvg-name="Сварожичи" tvg-logo="http://p.satfor.pro/picons/220x132/Svaroj.png" group-title="Украина",Сварожичи
-#EXTGRP:Украина
+#EXTINF:0,Сварожичи
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/svaroshici_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="xsport-ua" tvg-name="XSPORT" tvg-logo="http://p.satfor.pro/picons/ua/xsport.png" group-title="Украина",XSPORT
-#EXTGRP:Украина
+#EXTINF:0,XSPORT
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/xsport_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="34-dnepr" tvg-name="34" tvg-logo="http://p.satfor.pro/picons/ua/34.png" group-title="Украина",34
-#EXTGRP:Украина
+#EXTINF:0,34
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/34-dnepr_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="indigo.ua" tvg-name="Індиго" tvg-logo="http://p.satfor.pro/picons/ua/indigo.png" group-title="Украина",Індиго
-#EXTGRP:Украина
+#EXTINF:0,Індиго
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/indigo_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sport1.ua" tvg-name="Спорт 1" tvg-logo="http://p.satfor.pro/picons/220x132/ua_sport1.jpg" group-title="Украина",Спорт 1
-#EXTGRP:Украина
+#EXTINF:0,Спорт 1
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/sport1_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sport2.ua" tvg-name="Спорт 2" tvg-logo="http://p.satfor.pro/picons/220x132/ua_sport2.jpg" group-title="Украина",Спорт 2
-#EXTGRP:Украина
+#EXTINF:0,Спорт 2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/sport2_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol1.ua" tvg-name="Футбол 1" tvg-logo="http://p.satfor.pro/picons/ua/football1.png" group-title="Украина",Футбол 1
-#EXTGRP:Украина
+#EXTINF:0,Футбол 1
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol1_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol2.ua" tvg-name="Футбол 2" tvg-logo="http://p.satfor.pro/picons/ua/football2.png" group-title="Украина",Футбол 2
-#EXTGRP:Украина
+#EXTINF:0,Футбол 2
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol2_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol1.ua" tvg-name="Футбол 1 HD" tvg-logo="http://p.satfor.pro/picons/220x132/football1.png" group-title="Украина",Футбол 1 HD
-#EXTGRP:Украина
+#EXTINF:0,Футбол 1 HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol1hd_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol2.ua" tvg-name="Футбол 2 HD" tvg-logo="http://p.satfor.pro/picons/220x132/football2.png" group-title="Украина",Футбол 2 HD
-#EXTGRP:Украина
+#EXTINF:0,Футбол 2 HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol2hd_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="setanta-sport-ua" tvg-name="UA: Setanta Sport HD" tvg-logo="http://p.satfor.pro/picons/ua/setantasport.png" group-title="Украина",UA: Setanta Sport HD
-#EXTGRP:Украина
+#EXTINF:0,UA: Setanta Sport HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/setanta-ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="pervijavtomobili.ua" tvg-name="Первый автомобильный" tvg-logo="http://p.satfor.pro/picons/220x132/1auto.png" group-title="Украина",Первый автомобильный
-#EXTGRP:Украина
+#EXTINF:0,Первый автомобильный
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/pervijavtomobili_ua.ts
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="zik.ua" tvg-name="ZIK HD" tvg-logo="http://p.satfor.pro/picons/220x132/zikhdtest.png" group-title="Украина",ZIK HD
-#EXTGRP:Украина
+#EXTINF:0,ZIK HD
 https://ott-n.shara.club:443/live/s.206376.c6e459088f521b22482c318c044437fdf5c/zik_ua.ts
