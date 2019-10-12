@@ -1,24 +1,78 @@
-#EXTINF:0,Первый HD
+#EXTM3U
+#EXTINF:0 ,Первый HD
 #EXTGRP:Базовые Россия
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervyHD.ts
+#EXTINF:0 ,Первый канал
+#EXTGRP:Базовые Россия
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy.ts
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Базовые Россия
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1HD.ts
+#EXTINF:0,Россия 1
+#EXTGRP:Базовые Россия
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1.ts
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tntHD" tvg-name="ТНТ HD" tvg-logo="http://p.satfor.pro/picons/ru/tnt.png" group-title="Базовые Россия",ТНТ HD
+#EXTGRP:Базовые Россия
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tntHD.ts
+
+#EXTINF:0,Первый HD
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervyHD/video.m3u8
 #EXTINF:0,Первый канал
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy/video.m3u8
 #EXTINF:0 ,Россия 1 HD
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1HD/video.m3u8
 #EXTINF:0 ,Россия 1
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1/video.m3u8
 #EXTINF:-1,ТНТ HD
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tntHD/video.m3u8
 #EXTINF:-1,ТНТ
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt/video.m3u8
 #EXTINF:-1 ,СТС
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts/video.m3u8
 #EXTINF:-1 ,НТВ HD
-#EXTGRP:Базовые Россия
+#EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntvHD/video.m3u8
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://p.satfor.pro/picons/ru/ntv-white.png" group-title="Базовые Россия",НТВ
+#EXTGRP:Базовые Россия1
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv/video.m3u8
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://p.satfor.pro/picons/ru/rentv.png" group-title="Базовые Россия",РЕН ТВ
+#EXTGRP:Базовые Россия1
+https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentv/video.m3u8
+
+#EXTINF:-1,Bridge TV
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1,Fine Living
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:1,Food Network
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:1,MCM TOP
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:1,Здоровье
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:0,TV 1000 Action
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s95/04.m3u8
