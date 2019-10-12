@@ -14,7 +14,6 @@ https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/r
 #EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tntHD" tvg-name="ТНТ HD" tvg-logo="http://p.satfor.pro/picons/ru/tnt.png" group-title="Базовые Россия",ТНТ HD
 #EXTGRP:Базовые Россия
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tntHD.ts
-
 #EXTINF:0,Первый HD
 #EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervyHD/video.m3u8
@@ -45,7 +44,6 @@ https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/n
 #EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://p.satfor.pro/picons/ru/rentv.png" group-title="Базовые Россия",РЕН ТВ
 #EXTGRP:Базовые Россия1
 https://ott-n.shara.club:443/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentv/video.m3u8
-
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
 http://ott-cdn.ucom.am/s34/04.m3u8
