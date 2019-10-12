@@ -1,12 +1,83 @@
 #EXTM3U
+#EXTINF:-1,RTI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,UA:КРИМ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1,Maxxi TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,34 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,Прямой
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1,Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,UA Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1,Громадське 
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:-1,Громадське HD
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+#EXTINF:-1,Еко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1,Киев
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,Горизонт ТВ UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1,Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1,Перший Заходний
+http://93.178.252.244:8090/flv720_576.flv
+#EXTINF:-1,24 Украiна
+http://109.68.190.192:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1,En TV (Энергодар)
+http://tv.om.ua:8090/test.flv
+#EXTINF:-1,FM ТВ (Симферополь)
+http://193.238.110.158:8080/hq.m3u8
+#EXTINF:-1,TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska/chunks.m3u8
+#EXTINF:-1,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8
+#EXTINF:-1,ТВ Дитинец Чернигов
+http://webtv.net.ua:8080/stream.flv
+#EXTINF:-1,ТВ-Дом (Украина)
+http://78.26.128.21:8082/stream.flv?stream=133
+#EXTINF:-1,ТРК Черновцы
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1,Третий Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
+#EXTINF:-1,100% News UA
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTM3U
 #EXTINF:0,Discovery
 http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/140/index.m3u8
-#EXTINF:-1,Discovery HD
-http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/227/index.m3u8
-#EXTINF:-1,Discovery SCI
-http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/136/index.m3u8
 #EXTINF:-1,DTX HD
 http://212.12.194.10/dtxhd/live.m3u8
 #EXTINF:-1,National Geographic
@@ -163,92 +234,22 @@ http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20
 http://188.35.9.5:10020/stolen/484c/hot.dll
 #EXTINF:-1,TV 1000 Action
 http://92.43.140.249/s91/04.m3u8
-#EXTINF:-1,A1 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/554/index.m3u8
-#EXTINF:-1,A2 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/510/index.m3u8
-#EXTINF:-1,Amedia Hit 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/556/index.m3u8
 #EXTINF:-1,Amedia Premium 
 http://92.43.140.249/s64/04.m3u8
-#EXTINF:-1,Bollywood HD 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/239/index.m3u8
-#EXTINF:-1,FAN 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/734/index.m3u8
-#EXTINF:-1,FilmBox 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/948/index.m3u8
-#EXTINF:-1,FOX 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/550/index.m3u8
-#EXTINF:-1,FOX life 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/553/index.m3u8
-#EXTINF:-1,Hollywood HD 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/209/index.m3u8
-#EXTINF:-1,Hollywood 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/557/index.m3u8
-#EXTINF:-1,Paramount Comedy 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/157/index.m3u8
-#EXTINF:-1,Sony Channel 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/559/index.m3u8
 #EXTINF:-1,Sony Sci-Fi 
 http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
-#EXTINF:-1,Sony Turbo 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/708/index.m3u8
-#EXTINF:-1,Spike 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/849/index.m3u8
-#EXTINF:-1,Время 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/552/index.m3u8
-#EXTINF:-1,Дом кино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/154/index.m3u8
-#EXTINF:-1,Дом Кино Премиум 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/911/index.m3u8
-#EXTINF:-1,Еврокино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/854/index.m3u8
 #EXTINF:-1,Иллюзион__ 
 http://178.124.183.12/hls/V8TRED4CZL/bw2000000/playlist.m3u8
-#EXTINF:-1,Индийское кино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/146/index.m3u8
-#EXTINF:-1,Кино ТВ 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/732/index.m3u8
-#EXTINF:-1,Кинокомедия 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/145/index.m3u8
-#EXTINF:-1,Киномикс 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/509/index.m3u8
-#EXTINF:-1,Кинопоказ HD-2 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/912/index.m3u8
-#EXTINF:-1,Кинопремьера 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/224/index.m3u8
-#EXTINF:-1,Киносвидание 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/728/index.m3u8
-#EXTINF:-1,Киносемья 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/125/index.m3u8
-#EXTINF:-1,Киносерия 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/148/index.m3u8
-#EXTINF:-1,Кинохит 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/516/index.m3u8
 #EXTINF:-1,Классика кино 
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,Красная линия 
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1,Марс-ТВ 
 https://autopilot.catcast.me/content/37033/index.m3u8
-#EXTINF:-1,Мужское кино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/164/index.m3u8
 #EXTINF:-1,Настоящее Страшное Телевидение 
 http://92.43.140.249/s87/04.m3u8
-#EXTINF:-1,Наш детектив 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/915/index.m3u8
-#EXTINF:-1,Наше новое кино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/517/index.m3u8
-#EXTINF:-1,Остросюжетное HD 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/904/index.m3u8
 #EXTINF:-1,Победа 
 http://ott-cdn.ucom.am/s47/04.m3u8
-#EXTINF:-1,Родное кино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/126/index.m3u8
-#EXTINF:-1,РТВ - Любимое кино 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/722/index.m3u8
-#EXTINF:-1,Русская комедия 
-http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/733/index.m3u8
 #EXTINF:-1,Русский иллюзион 
 http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
 #EXTINF:-1,312 Кино HD
@@ -267,8 +268,6 @@ http://188.35.9.5:10007/stolen/138w/parasite.install
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:-1,Киномикс
 http://86.57.225.245:7015/play/a005
-#EXTINF:-1,Киносвидание
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
 #EXTINF:-1,Киносемья
 http://86.57.225.245:7015/play/a00p
 #EXTINF:-1,Классика кино
