@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,1+1
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1_ua.ts
 #EXTINF:0,1+1 International
 http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1mezhdunarodnyy_ua.ts
 #EXTINF:0,2+2
