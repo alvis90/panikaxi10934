@@ -1,581 +1,581 @@
 #EXTM3U
 #EXTINF:0,Первый HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervyHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervyHD/video.m3u8
 #EXTINF:0,Первый канал
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervy/video.m3u8
 #EXTINF:0,Россия 1 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1HD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia1HD/video.m3u8
 #EXTINF:0,Россия 1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia1/video.m3u8
 #EXTINF:0,ТНТ HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tntHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tntHD/video.m3u8
 #EXTINF:0,ТНТ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tnt/video.m3u8
 #EXTINF:0,СТС
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sts/video.m3u8
 #EXTINF:0,НТВ HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntvHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntvHD/video.m3u8
 #EXTINF:0,НТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv/video.m3u8
 #EXTINF:0,РЕН ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rentv/video.m3u8
 #EXTINF:0,РЕН HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentvHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rentvHD/video.m3u8
 #EXTINF:0,ТВЦ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tvcentr.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tvcentr/video.m3u8
 #EXTINF:0,ТВ-3
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv3-ru.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv3-ru/video.m3u8
 #EXTINF:0,Домашний
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domashny.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/domashny/video.m3u8
 #EXTINF:0,Пятый канал
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal-ru.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/5kanal-ru/video.m3u8
 #EXTINF:0,Мир
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mir.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mir/video.m3u8
 #EXTINF:0,Мир Premium HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mir-premium.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mir-premium/video.m3u8
 #EXTINF:0,ОТР
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/otr.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/otr/video.m3u8
 #EXTINF:0,НТВ Мир
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-mir.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-mir/video.m3u8
 #EXTINF:0,Че
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/che.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/che/video.m3u8
 #EXTINF:0,Россия-Культура
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia-k.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia-k/video.m3u8
 #EXTINF:0,Телеканал Звезда
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/zvezda.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/zvezda/video.m3u8
 #EXTINF:0,Первый канал (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervy-pl2/video.m3u8
 #EXTINF:0,Россия 1 (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia1-pl2/video.m3u8
 #EXTINF:0,ТНТ (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tnt-pl2/video.m3u8
 #EXTINF:0,СТС (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sts-pl2/video.m3u8
 #EXTINF:0,НТВ (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-pl2/video.m3u8
 #EXTINF:0,РЕН ТВ (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rentv-pl2/video.m3u8
 #EXTINF:0,ТВЦ (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tvcentr-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tvcentr-pl2/video.m3u8
 #EXTINF:0,ТВ-3 (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv3-ru-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv3-ru-pl2/video.m3u8
 #EXTINF:0,Домашний (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domashny-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/domashny-pl2/video.m3u8
 #EXTINF:0,Пятый канал (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal-ru-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/5kanal-ru-pl2/video.m3u8
 #EXTINF:0,Пятница (+2)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnica-pl2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/piatnica-pl2/video.m3u8
 #EXTINF:0,Первый канал (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervy-pl4/video.m3u8
 #EXTINF:0,Россия 1 (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia1-pl4/video.m3u8
 #EXTINF:0,ТНТ (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tnt-pl4/video.m3u8
 #EXTINF:0,СТС (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sts-pl4/video.m3u8
 #EXTINF:0,НТВ (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-pl4/video.m3u8
 #EXTINF:0,РЕН ТВ (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rentv-pl4/video.m3u8
 #EXTINF:0,ТВЦ (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tvcentr-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tvcentr-pl4/video.m3u8
 #EXTINF:0,ТВ-3 (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv3-ru-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv3-ru-pl4/video.m3u8
 #EXTINF:0,Домашний (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domashny-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/domashny-pl4/video.m3u8
 #EXTINF:0,Пятый канал (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal-ru-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/5kanal-ru-pl4/video.m3u8
 #EXTINF:0,Пятница (+4)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnica-pl4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/piatnica-pl4/video.m3u8
 #EXTINF:0,Первый канал (+6)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl6.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervy-pl6/video.m3u8
 #EXTINF:0,Россия 1 (+6)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl6.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia1-pl6/video.m3u8
 #EXTINF:0,ТНТ (+7)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-pl7.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tnt-pl7/video.m3u8
 #EXTINF:0,СТС (+7)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-love-pl7.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sts-love-pl7/video.m3u8
 #EXTINF:0,НТВ (+7)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pl7.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-pl7/video.m3u8
 #EXTINF:0,РЕН ТВ (+7)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv-pl7.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rentv-pl7/video.m3u8
 #EXTINF:0,Первый канал (+8)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl8.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervy-pl8/video.m3u8
 #EXTINF:0,Россия 1 (+8)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl8.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia1-pl8/video.m3u8
 #EXTINF:0,ТНТ4
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt4.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tnt4/video.m3u8
 #EXTINF:0,СТС Love
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-love.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sts-love/video.m3u8
 #EXTINF:0,КВН ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kvn-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kvn-tv/video.m3u8
 #EXTINF:0,Пятница HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnicaHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/piatnicaHD/video.m3u8
 #EXTINF:0,Пятница
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnica.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/piatnica/video.m3u8
 #EXTINF:0,Ю
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/yu.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/yu/video.m3u8
 #EXTINF:0,Супер
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/super.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/super/video.m3u8
 #EXTINF:0,FAN
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fan.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/fan/video.m3u8
 #EXTINF:0,FAN HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fanhd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/fanhd/video.m3u8
 #EXTINF:0,E tv
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/e-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/e-tv/video.m3u8
 #EXTINF:0,365 дней ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/365-dnej.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/365-dnej/video.m3u8
 #EXTINF:0,Бобёр
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bobior.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bobior/video.m3u8
 #EXTINF:0,Еда Премиум
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eda-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eda-hd/video.m3u8
 #EXTINF:0,Food Network
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/food-network.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/food-network/video.m3u8
 #EXTINF:0,Food Network HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/food-networkHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/food-networkHD/video.m3u8
 #EXTINF:0,Viasat History
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-history.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/viasat-history/video.m3u8
 #EXTINF:0,Viasat Explore
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-explore.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/viasat-explore/video.m3u8
 #EXTINF:0,Viasat Nature
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-nature.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/viasat-nature/video.m3u8
 #EXTINF:0,Nat Geographic
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/national-geographic.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/national-geographic/video.m3u8
 #EXTINF:0,National Geographic HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/national-geographicHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/national-geographicHD/video.m3u8
 #EXTINF:0,History HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/history-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/history-hd/video.m3u8
 #EXTINF:0,H2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/h2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/h2/video.m3u8
 #EXTINF:0,НТВ Стиль
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-style.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-style/video.m3u8
 #EXTINF:0,Viasat Nature/History HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-nature-history-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/viasat-nature-history-hd/video.m3u8
 #EXTINF:0,Nat Geo Wild HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nat-geo-wild.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nat-geo-wild/video.m3u8
 #EXTINF:0,Авто 24
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/avto24.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/avto24/video.m3u8
 #EXTINF:0,Драйв
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/drive.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/drive/video.m3u8
 #EXTINF:0,Авто Плюс
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/avto-plus.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/avto-plus/video.m3u8
 #EXTINF:0,Морской
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/morskoy.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/morskoy/video.m3u8
 #EXTINF:0,Discovery Channel
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-channel.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/discovery-channel/video.m3u8
 #EXTINF:0,Discovery Channel HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-channelHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/discovery-channelHD/video.m3u8
 #EXTINF:0,ID Xtra
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/id-xtra-ru.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/id-xtra-ru/video.m3u8
 #EXTINF:0,DTX
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dtx.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/dtx/video.m3u8
 #EXTINF:0,Discovery Science
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-science.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/discovery-science/video.m3u8
 #EXTINF:0,Discovery Science HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-scienceHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/discovery-scienceHD/video.m3u8
 #EXTINF:0,Travel Channel HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/travel-channelHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/travel-channelHD/video.m3u8
 #EXTINF:0,Travel+Adventure
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/travel-adventure.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/travel-adventure/video.m3u8
 #EXTINF:0,Travel+Adventure HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/travel-adventureHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/travel-adventureHD/video.m3u8
 #EXTINF:0,Наука 2.0
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nauka-20.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nauka-20/video.m3u8
 #EXTINF:0,Eureka HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eureka-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eureka-hd/video.m3u8
 #EXTINF:0,НТВ Право
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pravo.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-pravo/video.m3u8
 #EXTINF:0,Приключения HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/prikluchenia-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/prikluchenia-hd/video.m3u8
 #EXTINF:0,Animal Planet
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/animal-planet.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/animal-planet/video.m3u8
 #EXTINF:0,Animal Planet HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/animal-planetHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/animal-planetHD/video.m3u8
 #EXTINF:0,В мире животных HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/v-mire-zhivotnyx-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/v-mire-zhivotnyx-hd/video.m3u8
 #EXTINF:0,Fine Living
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fine-living.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/fine-living/video.m3u8
 #EXTINF:0,Fine living HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fine-livingHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/fine-livingHD/video.m3u8
 #EXTINF:0,TLC
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tlc.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tlc/video.m3u8
 #EXTINF:0,TLC HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tlcHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tlcHD/video.m3u8
 #EXTINF:0,Охота и рыбалка
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/oxota-i-rybalka.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/oxota-i-rybalka/video.m3u8
 #EXTINF:0,RTG HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rtg-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rtg-hd/video.m3u8
 #EXTINF:0,Планета HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/planeta-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/planeta-hd/video.m3u8
 #EXTINF:0,Дикая охота HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dikaya-oxota-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/dikaya-oxota-hd/video.m3u8
 #EXTINF:0,Дикая рыбалка HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dikaya-rybalka-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/dikaya-rybalka-hd/video.m3u8
 #EXTINF:0,Охотник и Рыболов HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/oxotnik-i-rybolov-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/oxotnik-i-rybolov-hd/video.m3u8
 #EXTINF:0,Дикий
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dikiy.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/dikiy/video.m3u8
 #EXTINF:0,Моя Планета
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/moya-planeta.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/moya-planeta/video.m3u8
 #EXTINF:0,Шокирующее
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kinopokaz-hd1.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kinopokaz-hd1/video.m3u8
 #EXTINF:0,Комедийное HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kinopokaz-hd2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kinopokaz-hd2/video.m3u8
 #EXTINF:0,Paramount Comedy
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/paramount-comedy.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/paramount-comedy/video.m3u8
 #EXTINF:0,Paramount Comedy HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/paramount-comedy-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/paramount-comedy-hd/video.m3u8
 #EXTINF:0,FOX HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/foxHD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/foxHD/video.m3u8
 #EXTINF:0,Fox Life
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/foxlife.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/foxlife/video.m3u8
 #EXTINF:0,Fox Russia
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fox.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/fox/video.m3u8
 #EXTINF:0,Amedia 1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia1.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/amedia1/video.m3u8
 #EXTINF:0,Amedia 2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/amedia2/video.m3u8
 #EXTINF:0,Amedia Hit
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia-hit.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/amedia-hit/video.m3u8
 #EXTINF:0,AMEDIA Premium HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia-premium.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/amedia-premium/video.m3u8
 #EXTINF:0,Дом Кино Премиум HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domkino-premium.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/domkino-premium/video.m3u8
 #EXTINF:0,Еврокино
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/evrokino.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/evrokino/video.m3u8
 #EXTINF:0,КИНО ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kino-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kino-tv/video.m3u8
 #EXTINF:0,Кино ТВ HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kino-tvhd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kino-tvhd/video.m3u8
 #EXTINF:0,Любимое Кино
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nashe-lubimoe-kino.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nashe-lubimoe-kino/video.m3u8
 #EXTINF:0,Дом Кино
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domkino.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/domkino/video.m3u8
 #EXTINF:0,Наш Кинороман HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nash-kinoroman.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nash-kinoroman/video.m3u8
 #EXTINF:0,Наше Крутое HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nash-detektiv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nash-detektiv/video.m3u8
 #EXTINF:0,SONY Sci-Fi
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sony-scifi.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sony-scifi/video.m3u8
 #EXTINF:0,Страшное HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/strashnoe-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/strashnoe-hd/video.m3u8
 #EXTINF:0,НСТ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nst.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nst/video.m3u8
 #EXTINF:0,Hollywood HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/hollywood-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/hollywood-hd/video.m3u8
 #EXTINF:0,Sony Entertainment Television
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sony-enter.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sony-enter/video.m3u8
 #EXTINF:0,TV 1000
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv1000/video.m3u8
 #EXTINF:0,TV1000 Action
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000-action.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv1000-action/video.m3u8
 #EXTINF:0,VIP Comedy
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vip-comedy.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/vip-comedy/video.m3u8
 #EXTINF:0,VIP Megahit
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vip-megahit.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/vip-megahit/video.m3u8
 #EXTINF:0,VIP Premiere
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vip-premiere.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/vip-premiere/video.m3u8
 #EXTINF:0,TV1000 Русское кино
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000-russkoe-kino.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv1000-russkoe-kino/video.m3u8
 #EXTINF:0,TV1000 Premium HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000-premium.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tv1000-premium/video.m3u8
 #EXTINF:0,Русский бестселлер
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-bestseller.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/russky-bestseller/video.m3u8
 #EXTINF:0,Русский детектив
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-detektiv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/russky-detektiv/video.m3u8
 #EXTINF:0,Русская комедия
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russkaya-komedia.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/russkaya-komedia/video.m3u8
 #EXTINF:0,Русский Иллюзион
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-illuzion.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/russky-illuzion/video.m3u8
 #EXTINF:0,Русский роман
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-roman.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/russky-roman/video.m3u8
 #EXTINF:0,Кинопремиум HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kinopremium-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kinopremium-hd/video.m3u8
 #EXTINF:0,Остросюжетное HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ostrosiuzhetnoe-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ostrosiuzhetnoe-hd/video.m3u8
 #EXTINF:0,Ultra HD Cinema
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ultra-hd-cinema.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ultra-hd-cinema/video.m3u8
 #EXTINF:0,Кино UHD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kino-ultra-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kino-ultra-hd/video.m3u8
 #EXTINF:0,Сериал UHD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/serial-ultrahd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/serial-ultrahd/video.m3u8
 #EXTINF:0,Победа
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pobeda.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pobeda/video.m3u8
 #EXTINF:0,НТВ Сериал
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-serial.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ntv-serial/video.m3u8
 #EXTINF:0,Мир Сериала
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mir-seriala.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mir-seriala/video.m3u8
 #EXTINF:0,Spike Russia
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/spike.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/spike/video.m3u8
 #EXTINF:0,SHOT TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/shot-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/shot-tv/video.m3u8
 #EXTINF:0,Sony Turbo
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sony-turbo.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sony-turbo/video.m3u8
 #EXTINF:0,Paramount Channel
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/paramount-channel.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/paramount-channel/video.m3u8
 #EXTINF:0,Конный мир HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/konny-mir.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/konny-mir/video.m3u8
 #EXTINF:0,Viasat Sport
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-sport.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/viasat-sport/video.m3u8
 #EXTINF:0,Viasat Sport HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-sporthd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/viasat-sporthd/video.m3u8
 #EXTINF:0,МАТЧ! Боец
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-boets.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-boets/video.m3u8
 #EXTINF:0,МАТЧ! Страна
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-nash-sport.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-nash-sport/video.m3u8
 #EXTINF:0,Матч ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-tv/video.m3u8
 #EXTINF:0,Матч! HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-tvhd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-tvhd/video.m3u8
 #EXTINF:0,МАТЧ! Арена
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-arena.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-arena/video.m3u8
 #EXTINF:0,МАТЧ! Арена HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-arenahd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-arenahd/video.m3u8
 #EXTINF:0,МАТЧ! Игра
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-igra.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-igra/video.m3u8
 #EXTINF:0,МАТЧ! Игра HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-igrahd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-igrahd/video.m3u8
 #EXTINF:0,МАТЧ! Планета
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-planeta.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-planeta/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football1.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-football1/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 1 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football1hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-football1hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-football2/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 2 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football2hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-football2hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 3
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football3.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-football3/video.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football3hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-football3hd/video.m3u8
 #EXTINF:0,МАТЧ ПРЕМЬЕР
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-premier.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-premier/video.m3u8
 #EXTINF:0,МАТЧ ПРЕМЬЕР HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-premierhd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/match-premierhd/video.m3u8
 #EXTINF:0,Бокс ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/box-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/box-tv/video.m3u8
 #EXTINF:0,UFC ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ufc.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ufc/video.m3u8
 #EXTINF:0,КХЛ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kxl.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kxl/video.m3u8
 #EXTINF:0,КХЛ HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kxl-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kxl-hd/video.m3u8
 #EXTINF:0,Eurosport
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport1-ru.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eurosport1-ru/video.m3u8
 #EXTINF:0,Eurosport 1 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport1hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eurosport1hd/video.m3u8
 #EXTINF:0,Eurosport 2 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport2HD.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eurosport2HD/video.m3u8
 #EXTINF:0,Eurosport Gold HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport-gold.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eurosport-gold/video.m3u8
 #EXTINF:0,Eurosport 4K
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport-4k.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/eurosport-4k/video.m3u8
 #EXTINF:0,Extreme Sport
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/extreme-sports.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/extreme-sports/video.m3u8
 #EXTINF:0,Русский Экстрим
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-ekstrim.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/russky-ekstrim/video.m3u8
 #EXTINF:0,Точка отрыва
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tochka-otryva.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tochka-otryva/video.m3u8
 #EXTINF:0,Сетанта Спорт 2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/setanta-sports-plus.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/setanta-sports-plus/video.m3u8
 #EXTINF:0,Сетанта Спорт
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/setanta-sports.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/setanta-sports/video.m3u8
 #EXTINF:0,Футбол HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/football-ru.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/football-ru/video.m3u8
 #EXTINF:0,MTV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-russia.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mtv-russia/video.m3u8
 #EXTINF:0,MTV Live HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-live.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mtv-live/video.m3u8
 #EXTINF:0,MTV Dance
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-dance.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mtv-dance/video.m3u8
 #EXTINF:0,MTV HITS
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-hits.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mtv-hits/video.m3u8
 #EXTINF:0,MTV Rocks
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-rocks.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mtv-rocks/video.m3u8
 #EXTINF:0,Музыка первого
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/muzyka-pervogo.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/muzyka-pervogo/video.m3u8
 #EXTINF:0,Europa Plus TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/europa-plus-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/europa-plus-tv/video.m3u8
 #EXTINF:0,Наше ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nashe-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nashe-tv/video.m3u8
 #EXTINF:0,МУЗ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/muztv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/muztv/video.m3u8
 #EXTINF:0,RU.TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ru-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ru-tv/video.m3u8
 #EXTINF:0,Bridge TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bridge-tv/video.m3u8
 #EXTINF:0,Bridge TV Dance
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv-dance.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bridge-tv-dance/video.m3u8
 #EXTINF:0,BRIDGE HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bridge-hd/video.m3u8
 #EXTINF:0,ТНТ MUSIC
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-music.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tnt-music/video.m3u8
 #EXTINF:0,BRIDGE TV Русский Хит
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv-ruxit.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bridge-tv-ruxit/video.m3u8
 #EXTINF:0,Жара
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/zhara.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/zhara/video.m3u8
 #EXTINF:0,BRIDGE TV Classic
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv-classic.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bridge-tv-classic/video.m3u8
 #EXTINF:0,VH-1 Classic
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vh1-classic.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/vh1-classic/video.m3u8
 #EXTINF:0,iConcerts HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/iconcerts.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/iconcerts/video.m3u8
 #EXTINF:0,MCM Top
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mcm-top.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mcm-top/video.m3u8
 #EXTINF:0,Cartoon Network
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/cartoon-network.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/cartoon-network/video.m3u8
 #EXTINF:0,Disney
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/disney.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/disney/video.m3u8
 #EXTINF:0,Мульт
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mult.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mult/video.m3u8
 #EXTINF:0,Kapitan Fantastika HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kapitan-fantastika.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kapitan-fantastika/video.m3u8
 #EXTINF:0,Gulli Girls
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/gulli-girl.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/gulli-girl/video.m3u8
 #EXTINF:0,2x2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/2na2.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/2na2/video.m3u8
 #EXTINF:0,Boomerang
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/boomerang.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/boomerang/video.m3u8
 #EXTINF:0,Карусель
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/karusel.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/karusel/video.m3u8
 #EXTINF:0,Детский мир
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/detsky-mir.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/detsky-mir/video.m3u8
 #EXTINF:0,Nick Jr.
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nick-jr.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nick-jr/video.m3u8
 #EXTINF:0,O!
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/o_.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/o_/video.m3u8
 #EXTINF:0,Jim Jam
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/jimjam.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/jimjam/video.m3u8
 #EXTINF:0,Nickelodeon
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nickelodeon-ru.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nickelodeon-ru/video.m3u8
 #EXTINF:0,Nickelodeon HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nickelodeon-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nickelodeon-hd/video.m3u8
 #EXTINF:0,Tiji TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tiji.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tiji/video.m3u8
 #EXTINF:0,Тлум HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tlum-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tlum-hd/video.m3u8
 #EXTINF:0,СТС Kids HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-kids-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sts-kids-hd/video.m3u8
 #EXTINF:0,Мультик HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/multik-hd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/multik-hd/video.m3u8
 #EXTINF:0,Мультимузыка
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/multimuzyka.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/multimuzyka/video.m3u8
 #EXTINF:0,Детский
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/detsky.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/detsky/video.m3u8
 #EXTINF:0,Мама
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mama.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mama/video.m3u8
 #EXTINF:0,RTVi
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rtvi.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rtvi/video.m3u8
 #EXTINF:0,Дождь
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dozd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/dozd/video.m3u8
 #EXTINF:0,Дождь HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dozhd.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/dozhd/video.m3u8
 #EXTINF:0,Москва 24
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/moskva-24.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/moskva-24/video.m3u8
 #EXTINF:0,РБК
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rbk.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rbk/video.m3u8
 #EXTINF:0,360° Подмосковье
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/360-podmoskovie.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/360-podmoskovie/video.m3u8
 #EXTINF:0,Euronews
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/euronews.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/euronews/video.m3u8
 #EXTINF:0,Россия-24
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia-24.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rossia-24/video.m3u8
 #EXTINF:0,1+1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/1plus1_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/1plus1_ua/video.m3u8
 #EXTINF:0,1+1 International
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/1plus1mezhdunarodnyy_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/1plus1mezhdunarodnyy_ua/video.m3u8
 #EXTINF:0,2+2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/2plus2_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/2plus2_ua/video.m3u8
 #EXTINF:0,112 Украина
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/112_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/112_ua/video.m3u8
 #EXTINF:0,112 Украина HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/112hd_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/112hd_ua/video.m3u8
 #EXTINF:0,Україна
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ukraina_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/ukraina_ua/video.m3u8
 #EXTINF:0,UA: Перший HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervij_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervij_ua/video.m3u8
 #EXTINF:0,Прямий
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/priamyj_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/priamyj_ua/video.m3u8
 #EXTINF:0,Донбасс
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/donbass-ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/donbass-ua/video.m3u8
 #EXTINF:0,Iнтер
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/inter_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/inter_ua/video.m3u8
 #EXTINF:0,TET
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tet_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/tet_ua/video.m3u8
 #EXTINF:0,5 канал (Украина)
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/5kanal_ua/video.m3u8
 #EXTINF:0,Новий канал
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/novikanal_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/novikanal_ua/video.m3u8
 #EXTINF:0,НТН
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/hth_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/hth_ua/video.m3u8
 #EXTINF:0,K1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/k1_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/k1_ua/video.m3u8
 #EXTINF:0,K2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/k2_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/k2_ua/video.m3u8
 #EXTINF:0,Enter-фільм
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/enterfilm_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/enterfilm_ua/video.m3u8
 #EXTINF:0,Квартал ТВ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kvartal-tv_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/kvartal-tv_ua/video.m3u8
 #EXTINF:0,EPOQUE
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/epoque_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/epoque_ua/video.m3u8
 #EXTINF:0,ТРОФЕЙ
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/trofey_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/trofey_ua/video.m3u8
 #EXTINF:0,Мега
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mera_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/mera_ua/video.m3u8
 #EXTINF:0,Music Box UA
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/musicbox_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/musicbox_ua/video.m3u8
 #EXTINF:0,НЛО TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nlo_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nlo_ua/video.m3u8
 #EXTINF:0,ПлюсПлюс
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/plyusplyus_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/plyusplyus_ua/video.m3u8
 #EXTINF:0,MAXXI TV
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/maxxitv_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/maxxitv_ua/video.m3u8
 #EXTINF:0,Болт HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bolt_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bolt_ua/video.m3u8
 #EXTINF:0,MiLady Television
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/milady-television_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/milady-television_ua/video.m3u8
 #EXTINF:0,Nauka
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nauka_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/nauka_ua/video.m3u8
 #EXTINF:0,24 канал
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/24_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/24_ua/video.m3u8
 #EXTINF:0,NewsOne
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/newsone_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/newsone_ua/video.m3u8
 #EXTINF:0,Rabinovich tv
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rabinovich_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rabinovich_ua/video.m3u8
 #EXTINF:0,Фауна
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fauna_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/fauna_ua/video.m3u8
 #EXTINF:0,RTi
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rti_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/rti_ua/video.m3u8
 #EXTINF:0,Сонце
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sonce_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sonce_ua/video.m3u8
 #EXTINF:0,УНІАН
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/uniantv_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/uniantv_ua/video.m3u8
 #EXTINF:0,Бігуді
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bigudi_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/bigudi_ua/video.m3u8
 #EXTINF:0,Сварожичи
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/svaroshici_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/svaroshici_ua/video.m3u8
 #EXTINF:0,XSPORT
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/xsport_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/xsport_ua/video.m3u8
 #EXTINF:0,34
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/34-dnepr_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/34-dnepr_ua/video.m3u8
 #EXTINF:0,Індиго
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/indigo_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/indigo_ua/video.m3u8
 #EXTINF:0,Спорт 1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sport1_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sport1_ua/video.m3u8
 #EXTINF:0,Спорт 2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sport2_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/sport2_ua/video.m3u8
 #EXTINF:0,Футбол 1
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/futbol1_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/futbol1_ua/video.m3u8
 #EXTINF:0,Футбол 2
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/futbol2_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/futbol2_ua/video.m3u8
 #EXTINF:0,Футбол 1 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/futbol1hd_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/futbol1hd_ua/video.m3u8
 #EXTINF:0,Футбол 2 HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/futbol2hd_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/futbol2hd_ua/video.m3u8
 #EXTINF:0,UA: Setanta Sport HD - test
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/setanta-ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/setanta-ua/video.m3u8
 #EXTINF:0,Первый автомобильный
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervijavtomobili_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/pervijavtomobili_ua/video.m3u8
 #EXTINF:0,ZIK HD
-http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/zik_ua.ts
+http://ott.shara.me:80/live/s.222260.977be644ba5b5190079ab3e57d76938cb/zik_ua/video.m3u8
