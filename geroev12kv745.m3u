@@ -1,875 +1,582 @@
 #EXTM3U
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="1plus1_ua" tvg-name="1+1" tvg-logo="http://p.satfor.pro/picons/ua/1plus1.png" ,1+1
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="1plus1mezhdunarodnyy_ua" tvg-name="1+1 International" tvg-logo="http://p.satfor.pro/picons/ua/1plus1_int.png" ,1+1 International
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/1plus1mezhdunarodnyy_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="2plus2_ua" tvg-name="2+2" tvg-logo="http://p.satfor.pro/picons/ua/2plus2.png" ,2+2
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/2plus2_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="112.ua" tvg-name="112 Украина" tvg-logo="http://p.satfor.pro/picons/220x132/112hd.png" ,112 Украина
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/112_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="112hd_ua" tvg-name="112 Украина HD" tvg-logo="http://p.satfor.pro/picons/220x132/112hd.png" ,112 Украина HD
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/112hd_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ukraina_ua" tvg-name="Україна" tvg-logo="http://p.satfor.pro/picons/220x132/ukrainasd.png" ,Україна
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/ukraina_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="pervij_ua" tvg-name="UA: Перший HD" tvg-logo="http://p.satfor.pro/picons/220x132/ua.png" ,UA: Перший HD
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/pervij_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="priamyj" tvg-name="Прямий" tvg-logo="http://p.satfor.pro/picons/ru/pryamiy.png" ,Прямий
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/priamyj_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="donbass-ua" tvg-name="Донбасс" tvg-logo="http://p.satfor.pro/picons/ua/donbass.png" ,Донбасс
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/donbass-ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="inter_ua" tvg-name="Iнтер" tvg-logo="http://p.satfor.pro/picons/ua/inter-ua.png" ,Iнтер
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/inter_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tet.ua" tvg-name="TET" tvg-logo="http://p.satfor.pro/picons/ua/tet.png" ,TET
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/tet_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="5kanal_ua" tvg-name="5 канал (Украина)" tvg-logo="http://p.satfor.pro/picons/ua/5chukr.png" ,5 канал (Украина)
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/5kanal_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="novikanal.ua" tvg-name="Новий канал" tvg-logo="http://p.satfor.pro/picons/ua/novychannel.png" ,Новий канал
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/novikanal_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="hth.ua" tvg-name="НТН" tvg-logo="http://p.satfor.pro/picons/ua/ntn.png" ,НТН
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/hth_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="k1.ua" tvg-name="K1" tvg-logo="http://p.satfor.pro/picons/ua/k1-ua.png" ,K1
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/k1_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="k2.ua" tvg-name="K2" tvg-logo="http://p.satfor.pro/picons/ua/k2-ua.png" ,K2
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/k2_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="enterfilm.ua" tvg-name="Enter-фільм" tvg-logo="http://p.satfor.pro/picons/ua/enterfilm.png" ,Enter-фільм
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/enterfilm_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kvartal-tv" tvg-name="Квартал ТВ" tvg-logo="http://p.satfor.pro/picons/ua/kvartaltv.png" ,Квартал ТВ
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/kvartal-tv_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="epoque" tvg-name="EPOQUE" tvg-logo="http://p.satfor.pro/picons/ua/epoque.png" ,EPOQUE
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/epoque_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="trofey" tvg-name="ТРОФЕЙ" tvg-logo="http://p.satfor.pro/picons/ua/trofey.png" ,ТРОФЕЙ
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/trofey_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mera.ua" tvg-name="Мега" tvg-logo="http://p.satfor.pro/picons/ua/mega-ua.png" ,Мега
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/mera_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="musicbox.ua" tvg-name="Music Box UA" tvg-logo="http://p.satfor.pro/picons/ua/music-box-ua.png" ,Music Box UA
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/musicbox_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nlo.ua" tvg-name="НЛО TV" tvg-logo="http://p.satfor.pro/picons/ua/nlo.png" ,НЛО TV
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/nlo_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="plyusplyus.ua" tvg-name="ПлюсПлюс" tvg-logo="http://p.satfor.pro/picons/ua/plusplus.png" ,ПлюсПлюс
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/plyusplyus_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="maxxitv.ua" tvg-name="MAXXI TV" tvg-logo="http://p.satfor.pro/picons/ua/maxxitv.png" ,MAXXI TV
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/maxxitv_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="bolt" tvg-name="Болт HD" tvg-logo="http://p.satfor.pro/picons/ru/bolt.png" ,Болт HD
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/bolt_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="milady-television" tvg-name="MiLady Television" tvg-logo="http://p.satfor.pro/picons/ua/miladytelevision.png" ,MiLady Television
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/milady-television_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nauka_ua" tvg-name="Nauka" tvg-logo="http://p.satfor.pro/picons/ua/nauka.png" ,Nauka
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/nauka_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="24.ua" tvg-name="24 канал" tvg-logo="http://p.satfor.pro/picons/ua/24kanal.png" ,24 канал
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/24_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="newsone_ua" tvg-name="NewsOne" tvg-logo="http://p.satfor.pro/picons/ua/newsone.png" ,NewsOne
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/newsone_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="newsnetwork" tvg-name="Rabinovich tv" tvg-logo="http://p.satfor.pro/picons/ua/rabinovich.jpg" ,Rabinovich tv
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/rabinovich_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fauna_ua" tvg-name="Фауна" tvg-logo="http://p.satfor.pro/picons/ua/fauna.png" ,Фауна
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/fauna_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rti.ua" tvg-name="RTi" tvg-logo="http://p.satfor.pro/picons/ua/rti.png" ,RTi
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/rti_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sonce.ua" tvg-name="Сонце" tvg-logo="http://p.satfor.pro/picons/ua/sonce.png" ,Сонце
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/sonce_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="uniantv.ua" tvg-name="УНІАН" tvg-logo="http://p.satfor.pro/picons/ua/uniantv.png" ,УНІАН
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/uniantv_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="bigudi.ua" tvg-name="Бігуді" tvg-logo="http://p.satfor.pro/picons/ua/bigudi.png" ,Бігуді
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/bigudi_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="" tvg-name="Сварожичи" tvg-logo="http://p.satfor.pro/picons/220x132/Svaroj.png" ,Сварожичи
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/svaroshici_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="xsport-ua" tvg-name="XSPORT" tvg-logo="http://p.satfor.pro/picons/ua/xsport.png" ,XSPORT
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/xsport_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="34-dnepr" tvg-name="34" tvg-logo="http://p.satfor.pro/picons/ua/34.png" ,34
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/34-dnepr_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="indigo.ua" tvg-name="Індиго" tvg-logo="http://p.satfor.pro/picons/ua/indigo.png" ,Індиго
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/indigo_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sport1.ua" tvg-name="Спорт 1" tvg-logo="http://p.satfor.pro/picons/220x132/ua_sport1.jpg" ,Спорт 1
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/sport1_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sport2.ua" tvg-name="Спорт 2" tvg-logo="http://p.satfor.pro/picons/220x132/ua_sport2.jpg" ,Спорт 2
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/sport2_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol1.ua" tvg-name="Футбол 1" tvg-logo="http://p.satfor.pro/picons/ua/football1.png" ,Футбол 1
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol1_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol2.ua" tvg-name="Футбол 2" tvg-logo="http://p.satfor.pro/picons/ua/football2.png" ,Футбол 2
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol2_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol1.ua" tvg-name="Футбол 1 HD" tvg-logo="http://p.satfor.pro/picons/220x132/football1.png" ,Футбол 1 HD
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol1hd_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="futbol2.ua" tvg-name="Футбол 2 HD" tvg-logo="http://p.satfor.pro/picons/220x132/football2.png" ,Футбол 2 HD
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/futbol2hd_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="setanta-ua" tvg-name="UA: Setanta Sport HD - test" tvg-logo="http://p.satfor.pro/picons/ua/setantasport.png" ,UA: Setanta Sport HD - test
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/setanta-ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="pervijavtomobili.ua" tvg-name="Первый автомобильный" tvg-logo="http://p.satfor.pro/picons/220x132/1auto.png" ,Первый автомобильный
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/pervijavtomobili_ua/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="zik.ua" tvg-name="ZIK HD" tvg-logo="http://p.satfor.pro/picons/220x132/zikhdtest.png" ,ZIK HD
-#EXTGRP:Украина
-http://ott.shara.me:80/live/s.206376.c6e459088f521b22482c318c044437fdf5c/zik_ua/video.m3u8
+#EXTINF:0,Первый HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervyHD.ts
+#EXTINF:0,Первый канал
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy.ts
+#EXTINF:0,Россия 1 HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1HD.ts
+#EXTINF:0,Россия 1
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1.ts
+#EXTINF:0,ТНТ HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tntHD.ts
+#EXTINF:0,ТНТ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt.ts
+#EXTINF:0,СТС
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts.ts
+#EXTINF:0,НТВ HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntvHD.ts
+#EXTINF:0,НТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv.ts
+#EXTINF:0,РЕН ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv.ts
+#EXTINF:0,РЕН HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentvHD.ts
+#EXTINF:0,ТВЦ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tvcentr.ts
+#EXTINF:0,ТВ-3
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv3-ru.ts
+#EXTINF:0,Домашний
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domashny.ts
+#EXTINF:0,Пятый канал
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal-ru.ts
+#EXTINF:0,Мир
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mir.ts
+#EXTINF:0,Мир Premium HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mir-premium.ts
+#EXTINF:0,ОТР
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/otr.ts
+#EXTINF:0,НТВ Мир
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-mir.ts
+#EXTINF:0,Че
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/che.ts
+#EXTINF:0,Россия-Культура
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia-k.ts
+#EXTINF:0,Телеканал Звезда
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/zvezda.ts
+#EXTINF:0,Первый канал (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl2.ts
+#EXTINF:0,Россия 1 (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl2.ts
+#EXTINF:0,ТНТ (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-pl2.ts
+#EXTINF:0,СТС (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-pl2.ts
+#EXTINF:0,НТВ (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pl2.ts
+#EXTINF:0,РЕН ТВ (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv-pl2.ts
+#EXTINF:0,ТВЦ (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tvcentr-pl2.ts
+#EXTINF:0,ТВ-3 (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv3-ru-pl2.ts
+#EXTINF:0,Домашний (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domashny-pl2.ts
+#EXTINF:0,Пятый канал (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal-ru-pl2.ts
+#EXTINF:0,Пятница (+2)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnica-pl2.ts
+#EXTINF:0,Первый канал (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl4.ts
+#EXTINF:0,Россия 1 (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl4.ts
+#EXTINF:0,ТНТ (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-pl4.ts
+#EXTINF:0,СТС (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-pl4.ts
+#EXTINF:0,НТВ (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pl4.ts
+#EXTINF:0,РЕН ТВ (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv-pl4.ts
+#EXTINF:0,ТВЦ (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tvcentr-pl4.ts
+#EXTINF:0,ТВ-3 (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv3-ru-pl4.ts
+#EXTINF:0,Домашний (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domashny-pl4.ts
+#EXTINF:0,Пятый канал (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/5kanal-ru-pl4.ts
+#EXTINF:0,Пятница (+4)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnica-pl4.ts
+#EXTINF:0,Первый канал (+6)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl6.ts
+#EXTINF:0,Россия 1 (+6)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl6.ts
+#EXTINF:0,ТНТ (+7)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-pl7.ts
+#EXTINF:0,СТС (+7)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-love-pl7.ts
+#EXTINF:0,НТВ (+7)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pl7.ts
+#EXTINF:0,РЕН ТВ (+7)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rentv-pl7.ts
+#EXTINF:0,Первый канал (+8)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pervy-pl8.ts
+#EXTINF:0,Россия 1 (+8)
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia1-pl8.ts
+#EXTINF:0,ТНТ4
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt4.ts
+#EXTINF:0,СТС Love
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-love.ts
+#EXTINF:0,КВН ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kvn-tv.ts
+#EXTINF:0,Пятница HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnicaHD.ts
+#EXTINF:0,Пятница
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/piatnica.ts
+#EXTINF:0,Ю
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/yu.ts
+#EXTINF:0,Супер
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/super.ts
+#EXTINF:0,FAN
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fan.ts
+#EXTINF:0,FAN HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fanhd.ts
+#EXTINF:0,E tv
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/e-tv.ts
+#EXTINF:0,365 дней ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/365-dnej.ts
+#EXTINF:0,Бобёр
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bobior.ts
+#EXTINF:0,Еда Премиум
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eda-hd.ts
+#EXTINF:0,Food Network
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/food-network.ts
+#EXTINF:0,Food Network HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/food-networkHD.ts
+#EXTINF:0,Viasat History
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-history.ts
+#EXTINF:0,Viasat Explore
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-explore.ts
+#EXTINF:0,Viasat Nature
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-nature.ts
+#EXTINF:0,Nat Geographic
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/national-geographic.ts
+#EXTINF:0,National Geographic HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/national-geographicHD.ts
+#EXTINF:0,History HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/history-hd.ts
+#EXTINF:0,H2
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/h2.ts
+#EXTINF:0,НТВ Стиль
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-style.ts
+#EXTINF:0,Viasat Nature/History HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-nature-history-hd.ts
+#EXTINF:0,Nat Geo Wild HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nat-geo-wild.ts
+#EXTINF:0,Авто 24
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/avto24.ts
+#EXTINF:0,Драйв
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/drive.ts
+#EXTINF:0,Авто Плюс
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/avto-plus.ts
+#EXTINF:0,Морской
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/morskoy.ts
+#EXTINF:0,Discovery Channel
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-channel.ts
+#EXTINF:0,Discovery Channel HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-channelHD.ts
+#EXTINF:0,ID Xtra
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/id-xtra-ru.ts
+#EXTINF:0,DTX
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dtx.ts
+#EXTINF:0,Discovery Science
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-science.ts
+#EXTINF:0,Discovery Science HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/discovery-scienceHD.ts
+#EXTINF:0,Travel Channel HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/travel-channelHD.ts
+#EXTINF:0,Travel+Adventure
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/travel-adventure.ts
+#EXTINF:0,Travel+Adventure HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/travel-adventureHD.ts
+#EXTINF:0,Наука 2.0
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nauka-20.ts
+#EXTINF:0,Eureka HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eureka-hd.ts
+#EXTINF:0,НТВ Право
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-pravo.ts
+#EXTINF:0,Приключения HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/prikluchenia-hd.ts
+#EXTINF:0,Animal Planet
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/animal-planet.ts
+#EXTINF:0,Animal Planet HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/animal-planetHD.ts
+#EXTINF:0,В мире животных HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/v-mire-zhivotnyx-hd.ts
+#EXTINF:0,Fine Living
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fine-living.ts
+#EXTINF:0,Fine living HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fine-livingHD.ts
+#EXTINF:0,TLC
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tlc.ts
+#EXTINF:0,TLC HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tlcHD.ts
+#EXTINF:0,Охота и рыбалка
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/oxota-i-rybalka.ts
+#EXTINF:0,RTG HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rtg-hd.ts
+#EXTINF:0,Планета HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/planeta-hd.ts
+#EXTINF:0,Дикая охота HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dikaya-oxota-hd.ts
+#EXTINF:0,Дикая рыбалка HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dikaya-rybalka-hd.ts
+#EXTINF:0,Охотник и Рыболов HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/oxotnik-i-rybolov-hd.ts
+#EXTINF:0,Дикий
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dikiy.ts
+#EXTINF:0,Моя Планета
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/moya-planeta.ts
+#EXTINF:0,Шокирующее
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kinopokaz-hd1.ts
+#EXTINF:0,Комедийное HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kinopokaz-hd2.ts
+#EXTINF:0,Paramount Comedy
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/paramount-comedy.ts
+#EXTINF:0,Paramount Comedy HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/paramount-comedy-hd.ts
+#EXTINF:0,FOX HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/foxHD.ts
+#EXTINF:0,Fox Life
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/foxlife.ts
+#EXTINF:0,Fox Russia
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/fox.ts
+#EXTINF:0,Amedia 1
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia1.ts
+#EXTINF:0,Amedia 2
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia2.ts
+#EXTINF:0,Amedia Hit
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia-hit.ts
+#EXTINF:0,AMEDIA Premium HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/amedia-premium.ts
+#EXTINF:0,Дом Кино Премиум HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domkino-premium.ts
+#EXTINF:0,Еврокино
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/evrokino.ts
+#EXTINF:0,КИНО ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kino-tv.ts
+#EXTINF:0,Кино ТВ HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kino-tvhd.ts
+#EXTINF:0,Любимое Кино
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nashe-lubimoe-kino.ts
+#EXTINF:0,Дом Кино
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/domkino.ts
+#EXTINF:0,Наш Кинороман HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nash-kinoroman.ts
+#EXTINF:0,Наше Крутое HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nash-detektiv.ts
+#EXTINF:0,SONY Sci-Fi
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sony-scifi.ts
+#EXTINF:0,Страшное HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/strashnoe-hd.ts
+#EXTINF:0,НСТ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nst.ts
+#EXTINF:0,Hollywood HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/hollywood-hd.ts
+#EXTINF:0,Sony Entertainment Television
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sony-enter.ts
+#EXTINF:0,TV 1000
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000.ts
+#EXTINF:0,TV1000 Action
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000-action.ts
+#EXTINF:0,VIP Comedy
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vip-comedy.ts
+#EXTINF:0,VIP Megahit
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vip-megahit.ts
+#EXTINF:0,VIP Premiere
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vip-premiere.ts
+#EXTINF:0,TV1000 Русское кино
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000-russkoe-kino.ts
+#EXTINF:0,TV1000 Premium HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tv1000-premium.ts
+#EXTINF:0,Русский бестселлер
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-bestseller.ts
+#EXTINF:0,Русский детектив
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-detektiv.ts
+#EXTINF:0,Русская комедия
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russkaya-komedia.ts
+#EXTINF:0,Русский Иллюзион
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-illuzion.ts
+#EXTINF:0,Русский роман
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-roman.ts
+#EXTINF:0,Кинопремиум HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kinopremium-hd.ts
+#EXTINF:0,Остросюжетное HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ostrosiuzhetnoe-hd.ts
+#EXTINF:0,Ultra HD Cinema
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ultra-hd-cinema.ts
+#EXTINF:0,Кино UHD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kino-ultra-hd.ts
+#EXTINF:0,Сериал UHD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/serial-ultrahd.ts
+#EXTINF:0,Победа
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/pobeda.ts
+#EXTINF:0,НТВ Сериал
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ntv-serial.ts
+#EXTINF:0,Мир Сериала
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mir-seriala.ts
+#EXTINF:0,Spike Russia
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/spike.ts
+#EXTINF:0,SHOT TV
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/shot-tv.ts
+#EXTINF:0,Sony Turbo
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sony-turbo.ts
+#EXTINF:0,Paramount Channel
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/paramount-channel.ts
+#EXTINF:0,Конный мир HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/konny-mir.ts
+#EXTINF:0,Viasat Sport
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-sport.ts
+#EXTINF:0,Viasat Sport HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/viasat-sporthd.ts
+#EXTINF:0,МАТЧ! Боец
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-boets.ts
+#EXTINF:0,МАТЧ! Страна
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-nash-sport.ts
+#EXTINF:0,Матч ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-tv.ts
+#EXTINF:0,Матч! HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-tvhd.ts
+#EXTINF:0,МАТЧ! Арена
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-arena.ts
+#EXTINF:0,МАТЧ! Арена HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-arenahd.ts
+#EXTINF:0,МАТЧ! Игра
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-igra.ts
+#EXTINF:0,МАТЧ! Игра HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-igrahd.ts
+#EXTINF:0,МАТЧ! Планета
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-planeta.ts
+#EXTINF:0,МАТЧ! Футбол 1
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football1.ts
+#EXTINF:0,МАТЧ! Футбол 1 HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football1hd.ts
+#EXTINF:0,МАТЧ! Футбол 2
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football2.ts
+#EXTINF:0,МАТЧ! Футбол 2 HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football2hd.ts
+#EXTINF:0,МАТЧ! Футбол 3
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football3.ts
+#EXTINF:0,Матч! Футбол 3 HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-football3hd.ts
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-premier.ts
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/match-premierhd.ts
+#EXTINF:0,Бокс ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/box-tv.ts
+#EXTINF:0,UFC ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ufc.ts
+#EXTINF:0,КХЛ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kxl.ts
+#EXTINF:0,КХЛ HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kxl-hd.ts
+#EXTINF:0,Eurosport
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport1-ru.ts
+#EXTINF:0,Eurosport 1 HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport1hd.ts
+#EXTINF:0,Eurosport 2 HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport2HD.ts
+#EXTINF:0,Eurosport Gold HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport-gold.ts
+#EXTINF:0,Eurosport 4K
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/eurosport-4k.ts
+#EXTINF:0,Extreme Sport
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/extreme-sports.ts
+#EXTINF:0,Русский Экстрим
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/russky-ekstrim.ts
+#EXTINF:0,Точка отрыва
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tochka-otryva.ts
+#EXTINF:0,Сетанта Спорт 2
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/setanta-sports-plus.ts
+#EXTINF:0,Сетанта Спорт
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/setanta-sports.ts
+#EXTINF:0,Футбол HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/football-ru.ts
+#EXTINF:0,MTV
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-russia.ts
+#EXTINF:0,MTV Live HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-live.ts
+#EXTINF:0,MTV Dance
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-dance.ts
+#EXTINF:0,MTV HITS
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-hits.ts
+#EXTINF:0,MTV Rocks
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mtv-rocks.ts
+#EXTINF:0,Музыка первого
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/muzyka-pervogo.ts
+#EXTINF:0,Europa Plus TV
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/europa-plus-tv.ts
+#EXTINF:0,Наше ТВ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nashe-tv.ts
+#EXTINF:0,МУЗ
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/muztv.ts
+#EXTINF:0,RU.TV
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/ru-tv.ts
+#EXTINF:0,Bridge TV
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv.ts
+#EXTINF:0,Bridge TV Dance
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv-dance.ts
+#EXTINF:0,BRIDGE HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-hd.ts
+#EXTINF:0,ТНТ MUSIC
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tnt-music.ts
+#EXTINF:0,BRIDGE TV Русский Хит
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv-ruxit.ts
+#EXTINF:0,Жара
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/zhara.ts
+#EXTINF:0,BRIDGE TV Classic
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/bridge-tv-classic.ts
+#EXTINF:0,VH-1 Classic
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/vh1-classic.ts
+#EXTINF:0,iConcerts HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/iconcerts.ts
+#EXTINF:0,MCM Top
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mcm-top.ts
+#EXTINF:0,Cartoon Network
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/cartoon-network.ts
+#EXTINF:0,Disney
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/disney.ts
+#EXTINF:0,Мульт
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mult.ts
+#EXTINF:0,Kapitan Fantastika HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/kapitan-fantastika.ts
+#EXTINF:0,Gulli Girls
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/gulli-girl.ts
+#EXTINF:0,2x2
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/2na2.ts
+#EXTINF:0,Boomerang
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/boomerang.ts
+#EXTINF:0,Карусель
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/karusel.ts
+#EXTINF:0,Детский мир
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/detsky-mir.ts
+#EXTINF:0,Nick Jr.
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nick-jr.ts
+#EXTINF:0,O!
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/o_.ts
+#EXTINF:0,Jim Jam
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/jimjam.ts
+#EXTINF:0,Nickelodeon
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nickelodeon-ru.ts
+#EXTINF:0,Nickelodeon HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/nickelodeon-hd.ts
+#EXTINF:0,Tiji TV
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tiji.ts
+#EXTINF:0,Тлум HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/tlum-hd.ts
+#EXTINF:0,СТС Kids HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/sts-kids-hd.ts
+#EXTINF:0,Мультик HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/multik-hd.ts
+#EXTINF:0,Мультимузыка
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/multimuzyka.ts
+#EXTINF:0,Детский
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/detsky.ts
+#EXTINF:0,Мама
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/mama.ts
+#EXTINF:0,RTVi
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rtvi.ts
+#EXTINF:0,Дождь
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dozd.ts
+#EXTINF:0,Дождь HD
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/dozhd.ts
+#EXTINF:0,Москва 24
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/moskva-24.ts
+#EXTINF:0,РБК
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rbk.ts
+#EXTINF:0,360° Подмосковье
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/360-podmoskovie.ts
+#EXTINF:0,Euronews
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/euronews.ts
+#EXTINF:0,Россия-24
+http://ott.shara.me:80/live/s.220992.cb2d3c10b61fa52f4687702afeb0bb1d4/rossia-24.ts
+#EXTINF:0,1+1
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/1plus1_ua/video.m3u8
+#EXTINF:0,1+1 International
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/1plus1mezhdunarodnyy_ua/video.m3u8
+#EXTINF:0,2+2
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/2plus2_ua/video.m3u8
+#EXTINF:0,112 Украина
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/112_ua/video.m3u8
+#EXTINF:0,112 Украина HD
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/112hd_ua/video.m3u8
+#EXTINF:0,Україна
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/ukraina_ua/video.m3u8
+#EXTINF:0,UA: Перший HD
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/pervij_ua/video.m3u8
+#EXTINF:0,Прямий
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/priamyj_ua/video.m3u8
+#EXTINF:0,Донбасс
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/donbass-ua/video.m3u8
+#EXTINF:0,Iнтер
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/inter_ua/video.m3u8
+#EXTINF:0,TET
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/tet_ua/video.m3u8
+#EXTINF:0,5 канал (Украина)
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/5kanal_ua/video.m3u8
+#EXTINF:0,Новий канал
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/novikanal_ua/video.m3u8
+#EXTINF:0,НТН
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/hth_ua/video.m3u8
+#EXTINF:0,K1
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/k1_ua/video.m3u8
+#EXTINF:0,K2
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/k2_ua/video.m3u8
+#EXTINF:0,Enter-фільм
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/enterfilm_ua/video.m3u8
+#EXTINF:0,Квартал ТВ
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/kvartal-tv_ua/video.m3u8
+#EXTINF:0,EPOQUE
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/epoque_ua/video.m3u8
+#EXTINF:0,ТРОФЕЙ
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/trofey_ua/video.m3u8
+#EXTINF:0,Мега
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/mera_ua/video.m3u8
+#EXTINF:0,Music Box UA
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/musicbox_ua/video.m3u8
+#EXTINF:0,НЛО TV
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/nlo_ua/video.m3u8
+#EXTINF:0,ПлюсПлюс
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/plyusplyus_ua/video.m3u8
+#EXTINF:0,MAXXI TV
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/maxxitv_ua/video.m3u8
+#EXTINF:0,Болт HD
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/bolt_ua/video.m3u8
+#EXTINF:0,MiLady Television
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/milady-television_ua/video.m3u8
+#EXTINF:0,Nauka
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/nauka_ua/video.m3u8
+#EXTINF:0,24 канал
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/24_ua/video.m3u8
+#EXTINF:0,NewsOne
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/newsone_ua/video.m3u8
+#EXTINF:0,Rabinovich tv
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/rabinovich_ua/video.m3u8
+#EXTINF:0,Фауна
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/fauna_ua/video.m3u8
+#EXTINF:0,RTi
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/rti_ua/video.m3u8
+#EXTINF:0,Сонце
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/sonce_ua/video.m3u8
+#EXTINF:0,УНІАН
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/uniantv_ua/video.m3u8
+#EXTINF:0,Бігуді
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/bigudi_ua/video.m3u8
+#EXTINF:0,Сварожичи
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/svaroshici_ua/video.m3u8
+#EXTINF:0,XSPORT
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/xsport_ua/video.m3u8
+#EXTINF:0,34
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/34-dnepr_ua/video.m3u8
+#EXTINF:0,Індиго
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/indigo_ua/video.m3u8
+#EXTINF:0,Спорт 1
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/sport1_ua/video.m3u8
+#EXTINF:0,Спорт 2
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/sport2_ua/video.m3u8
+#EXTINF:0,Футбол 1
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/futbol1_ua/video.m3u8
+#EXTINF:0,Футбол 2
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/futbol2_ua/video.m3u8
+#EXTINF:0,Футбол 1 HD
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/futbol1hd_ua/video.m3u8
+#EXTINF:0,Футбол 2 HD
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/futbol2hd_ua/video.m3u8
+#EXTINF:0,UA: Setanta Sport HD - test
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/setanta-ua/video.m3u8
+#EXTINF:0,Первый автомобильный
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/pervijavtomobili_ua/video.m3u8
+#EXTINF:0,ZIK HD
+http://ott.shara.me:80/live/s.222289.cd336366133f064f7879c500da1d3104c/zik_ua/video.m3u8
 
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="21" tvg-name="Первый HD" tvg-logo="http://p.satfor.pro/picons/ru/pervyj.png" ,Первый HD
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervyHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://p.satfor.pro/picons/ru/pervyj.png" ,Первый канал
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="841" tvg-name="Россия 1 HD" tvg-logo="http://p.satfor.pro/picons/ru/rossia-hd.png" ,Россия 1 HD
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1HD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://p.satfor.pro/picons/ru/rossia1.png" ,Россия 1
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tntHD" tvg-name="ТНТ HD" tvg-logo="http://p.satfor.pro/picons/ru/tnt.png" ,ТНТ HD
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tntHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://p.satfor.pro/picons/ru/tnt.png" ,ТНТ
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sts" tvg-name="СТС" tvg-logo="http://p.satfor.pro/picons/ru/sts.png" ,СТС
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntvHD" tvg-name="НТВ HD" tvg-logo="http://p.satfor.pro/picons/ru/ntv-white.png" ,НТВ HD
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntvHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://p.satfor.pro/picons/ru/ntv-white.png" ,НТВ
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://p.satfor.pro/picons/ru/rentv.png" ,РЕН ТВ
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rentv" tvg-name="РЕН HD" tvg-logo="http://p.satfor.pro/picons/ru/rentv.png" ,РЕН HD
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentvHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://p.satfor.pro/picons/ru/tvcentr.png" ,ТВЦ
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tvcentr/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv3-ru" tvg-name="ТВ-3" tvg-logo="http://p.satfor.pro/picons/ru/tv3.png" ,ТВ-3
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv3-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://p.satfor.pro/picons/ru/domashny.png" ,Домашний
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/domashny/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://p.satfor.pro/picons/ru/5kanal-ru.png" ,Пятый канал
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/5kanal-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mir" tvg-name="Мир" tvg-logo="http://p.satfor.pro/picons/ru/mir.png" ,Мир
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mir/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mir-premium" tvg-name="Мир Premium HD" tvg-logo="http://p.satfor.pro/picons/ru/mir.png" ,Мир Premium HD
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mir-premium/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="otr" tvg-name="ОТР" tvg-logo="http://p.satfor.pro/picons/ru/otr.jpg" ,ОТР
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/otr/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://p.satfor.pro/picons/ru/ntvmir.png" ,НТВ Мир
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-mir/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="che" tvg-name="Че" tvg-logo="http://p.satfor.pro/picons/ru/che.png" ,Че
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/che/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rossia-k" tvg-name="Россия-Культура" tvg-logo="http://p.satfor.pro/picons/ru/rosskult.png" ,Россия-Культура
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia-k/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="zvezda" tvg-name="Телеканал Звезда" tvg-logo="http://p.satfor.pro/picons/ru/zvezda.png" ,Телеканал Звезда
-#EXTGRP:Базовые Россия
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/zvezda/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="pervy-pl2" tvg-name="Первый канал (+2)" tvg-logo="http://p.satfor.pro/picons/ru/pervyj_plus2.png" ,Первый канал (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)" tvg-logo="http://p.satfor.pro/picons/ru/russia1plus2.png" ,Россия 1 (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tnt-pl2" tvg-name="ТНТ (+2)" tvg-logo="http://p.satfor.pro/picons/ru/tntplus2.png" ,ТНТ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="sts-pl2" tvg-name="СТС (+2)" tvg-logo="http://p.satfor.pro/picons/ru/sts-pl2.png" ,СТС (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://p.satfor.pro/picons/ru/ntvplus2.png" ,НТВ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://p.satfor.pro/picons/ru/rentvplus2.png" ,РЕН ТВ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentv-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tvcentr-pl2" tvg-name="ТВЦ (+2)" tvg-logo="http://p.satfor.pro/picons/ru/tvc+2.png" ,ТВЦ (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tvcentr-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tv3-ru-pl2" tvg-name="ТВ-3 (+2)" tvg-logo="http://p.satfor.pro/picons/ru/tv3+2.png" ,ТВ-3 (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv3-ru-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="domashny-pl2" tvg-name="Домашний (+2)" tvg-logo="http://p.satfor.pro/picons/ru/domashniy+2.png" ,Домашний (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/domashny-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал (+2)" tvg-logo="http://p.satfor.pro/picons/ru/5+2.png" ,Пятый канал (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/5kanal-ru-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="piatnica-pl2" tvg-name="Пятница (+2)" tvg-logo="http://p.satfor.pro/picons/ru/piatnica+2.png" ,Пятница (+2)
-#EXTGRP:Базовый Россия +2
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/piatnica-pl2/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="pervy-pl4" tvg-name="Первый канал (+4)" tvg-logo="http://p.satfor.pro/picons/ru/perviyplus4.png" ,Первый канал (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rossia1-pl4" tvg-name="Россия 1 (+4)" tvg-logo="http://p.satfor.pro/picons/ru/rossiaplus4.png" ,Россия 1 (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tnt-pl4" tvg-name="ТНТ (+4)" tvg-logo="http://p.satfor.pro/picons/ru/tntplus4.png" ,ТНТ (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="sts-pl4" tvg-name="СТС (+4)" tvg-logo="http://p.satfor.pro/picons/ru/sts-pl4.png" ,СТС (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="http://p.satfor.pro/picons/ru/ntvplus4.png" ,НТВ (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rentv-pl4" tvg-name="РЕН ТВ (+4)" tvg-logo="http://p.satfor.pro/picons/ru/rentvpplus4.png" ,РЕН ТВ (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentv-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tvcentr-pl4" tvg-name="ТВЦ (+4)" tvg-logo="http://p.satfor.pro/picons/ru/tvc+4.png" ,ТВЦ (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tvcentr-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tv3-ru-pl4" tvg-name="ТВ-3 (+4)" tvg-logo="http://p.satfor.pro/picons/ru/tv3+4.png" ,ТВ-3 (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv3-ru-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="domashny-pl4" tvg-name="Домашний (+4)" tvg-logo="http://p.satfor.pro/picons/ru/domashniy+4.png" ,Домашний (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/domashny-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал (+4)" tvg-logo="http://p.satfor.pro/picons/ru/5+4.png" ,Пятый канал (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/5kanal-ru-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="piatnica-pl4" tvg-name="Пятница (+4)" tvg-logo="http://p.satfor.pro/picons/ru/piatnica+4.png" ,Пятница (+4)
-#EXTGRP:Базовый Россия +4
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/piatnica-pl4/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="pervy-pl6" tvg-name="Первый канал (+6)" tvg-logo="http://p.satfor.pro/picons/ru/perviyplus6.png" ,Первый канал (+6)
-#EXTGRP:Базовый Россия +6
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy-pl6/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rossia1-pl6" tvg-name="Россия 1 (+6)" tvg-logo="http://p.satfor.pro/picons/ru/russiaplus6.png" ,Россия 1 (+6)
-#EXTGRP:Базовый Россия +6
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1-pl6/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tnt-pl7" tvg-name="ТНТ (+7)" tvg-logo="http://p.satfor.pro/picons/ru/tntplus7.png" group-title="Базовый Россия +7",ТНТ (+7)
-#EXTGRP:Базовый Россия +7
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt-pl7/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="sts-love-pl7" tvg-name="СТС (+7)" tvg-logo="" group-title="Базовый Россия +7",СТС (+7)
-#EXTGRP:Базовый Россия +7
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts-love-pl7/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="ntv-pl7" tvg-name="НТВ (+7)" tvg-logo="http://p.satfor.pro/picons/ru/ntvplus7.png" group-title="Базовый Россия +7",НТВ (+7)
-#EXTGRP:Базовый Россия +7
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-pl7/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rentv-pl7" tvg-name="РЕН ТВ (+7)" tvg-logo="" group-title="Базовый Россия +7",РЕН ТВ (+7)
-#EXTGRP:Базовый Россия +7
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rentv-pl7/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="pervy-pl8" tvg-name="Первый канал (+8)" tvg-logo="http://p.satfor.pro/picons/ru/perviyplus8.png" ,Первый канал (+8)
-#EXTGRP:Базовый Россия +8
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pervy-pl8/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rossia1-pl8" tvg-name="Россия 1 (+8)" tvg-logo="http://p.satfor.pro/picons/ru/russiaplus8.png" ,Россия 1 (+8)
-#EXTGRP:Базовый Россия +8
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia1-pl8/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://p.satfor.pro/picons/ru/tnt4.png" ,ТНТ4
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt4/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://p.satfor.pro/picons/ru/sts-love.png" ,СТС Love
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts-love/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://p.satfor.pro/picons/ru/kvn-tv.png" ,КВН ТВ
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kvn-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="piatnica" tvg-name="Пятница HD" tvg-logo="http://p.satfor.pro/picons/ru/pyatnica.png" ,Пятница HD
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/piatnicaHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="piatnica" tvg-name="Пятница" tvg-logo="http://p.satfor.pro/picons/ru/pyatnica.png" ,Пятница
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/piatnica/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="yu" tvg-name="Ю" tvg-logo="http://p.satfor.pro/picons/ru/yu.png" ,Ю
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/yu/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="super" tvg-name="Супер" tvg-logo="http://p.satfor.pro/picons/ru/super.png" ,Супер
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/super/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://p.satfor.pro/picons/ru/fan.png" ,FAN
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/fan/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fanhd" tvg-name="FAN HD" tvg-logo="http://p.satfor.pro/picons/ru/fan.png" ,FAN HD
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/fanhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="e-tv" tvg-name="E tv" tvg-logo="http://p.satfor.pro/picons/ru/e-tv.png" ,E tv
-#EXTGRP:Развлекательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/e-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://p.satfor.pro/picons/ru/365-dnej.png" ,365 дней ТВ
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/365-dnej/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://p.satfor.pro/picons/ru/bober.png" ,Бобёр
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/bobior/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="eda-hd" tvg-name="Еда Премиум" tvg-logo="http://p.satfor.pro/picons/ru/eda-hd.png" ,Еда Премиум
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eda-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="food-network" tvg-name="Food Network" tvg-logo="http://p.satfor.pro/picons/ru/food-network.png" ,Food Network
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/food-network/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="food-networkHD" tvg-name="Food Network HD" tvg-logo="http://p.satfor.pro/picons/ru/food-network.png" ,Food Network HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/food-networkHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://p.satfor.pro/picons/ru/viasathistory.ru.png" ,Viasat History
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/viasat-history/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="http://p.satfor.pro/picons/ru/viasatexplore.ru.png" ,Viasat Explore
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/viasat-explore/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://p.satfor.pro/picons/ru/viasatnature.ru.png" ,Viasat Nature
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/viasat-nature/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="national-geographic" tvg-name="Nat Geographic" tvg-logo="http://p.satfor.pro/picons/ru/natgeo.ru.png" ,Nat Geographic
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/national-geographic/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="national-geographic" tvg-name="National Geographic HD" tvg-logo="http://p.satfor.pro/picons/ru/national-geographic-hd.png" ,National Geographic HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/national-geographicHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="history-hd" tvg-name="History HD" tvg-logo="http://p.satfor.pro/picons/ru/history_hd.png" ,History HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/history-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="h2" tvg-name="H2" tvg-logo="http://p.satfor.pro/picons/ru/h2.png" ,H2
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/h2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://p.satfor.pro/picons/ru/ntv-style.png" ,НТВ Стиль
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-style/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="viasat-nature-history-hd" tvg-name="Viasat Nature/History HD" tvg-logo="http://p.satfor.pro/picons/ru/viasat-nature-history-hd.png" ,Viasat Nature/History HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/viasat-nature-history-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://p.satfor.pro/picons/ru/natgeowild.ru.png" ,Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nat-geo-wild/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://p.satfor.pro/picons/ru/avto24.png" ,Авто 24
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/avto24/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="drive" tvg-name="Драйв" tvg-logo="http://p.satfor.pro/picons/ru/drive.png" ,Драйв
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/drive/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://p.satfor.pro/picons/ru/avto-plus.png" ,Авто Плюс
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/avto-plus/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="morskoy" tvg-name="Морской" tvg-logo="http://p.satfor.pro/picons/ru/morskoy.png" ,Морской
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/morskoy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://p.satfor.pro/picons/ru/discoverychannel.ru.png" ,Discovery Channel
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/discovery-channel/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="discovery-channel" tvg-name="Discovery Channel HD" tvg-logo="http://p.satfor.pro/picons/ru/discoverychannel.ru.png" ,Discovery Channel HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/discovery-channelHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="id-xtra-ru" tvg-name="ID Xtra" tvg-logo="http://p.satfor.pro/picons/ru/idxtra.ru.png" ,ID Xtra
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/id-xtra-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="dtx" tvg-name="DTX" tvg-logo="http://p.satfor.pro/picons/ru/dtx.png" ,DTX
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dtx/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="http://p.satfor.pro/picons/ru/discovery-science.png" ,Discovery Science
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/discovery-science/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="http://p.satfor.pro/picons/ru/discovery-science.png" ,Discovery Science HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/discovery-scienceHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://p.satfor.pro/picons/ru/travel-channel.png" ,Travel Channel HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/travel-channelHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="travel-adventure" tvg-name="Travel+Adventure" tvg-logo="http://p.satfor.pro/picons/ru/travel-adventure.png" ,Travel+Adventure
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/travel-adventure/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="travel-adventure" tvg-name="Travel+Adventure HD" tvg-logo="http://p.satfor.pro/picons/ru/travel-adventure.png" ,Travel+Adventure HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/travel-adventureHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nauka-20" tvg-name="Наука 2.0" tvg-logo="http://p.satfor.pro/picons/ru/nauka-20.png" ,Наука 2.0
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nauka-20/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="eureka-hd" tvg-name="Eureka HD" tvg-logo="http://p.satfor.pro/picons/ru/eureka-hd.png" ,Eureka HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eureka-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://p.satfor.pro/picons/ru/ntv-pravo.png" ,НТВ Право
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-pravo/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://p.satfor.pro/picons/ru/priklhd.png" ,Приключения HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/prikluchenia-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="http://p.satfor.pro/picons/ru/animal-planet.png" ,Animal Planet
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/animal-planet/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="animal-planet" tvg-name="Animal Planet HD" tvg-logo="http://p.satfor.pro/picons/ru/animal-planet.png" ,Animal Planet HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/animal-planetHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://p.satfor.pro/picons/ru/v-mire-zhivotnyx.png" ,В мире животных HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/v-mire-zhivotnyx-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fine-living" tvg-name="Fine Living" tvg-logo="http://p.satfor.pro/picons/ru/fineliving.ru.png" ,Fine Living
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/fine-living/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fine-living" tvg-name="Fine living HD" tvg-logo="http://p.satfor.pro/picons/ru/fineliving.ru.png" ,Fine living HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/fine-livingHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tlc" tvg-name="TLC" tvg-logo="http://p.satfor.pro/picons/ru/tlc.ru.png" ,TLC
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tlc/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://p.satfor.pro/picons/ru/tlc.ru.png" ,TLC HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tlcHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="oxota-i-rybalka" tvg-name="Охота и рыбалка" tvg-logo="http://p.satfor.pro/picons/ru/ohotaribalka.png" ,Охота и рыбалка
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/oxota-i-rybalka/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://p.satfor.pro/picons/ru/RTG_hd.png" ,RTG HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rtg-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="planeta-hd" tvg-name="Планета HD" tvg-logo="http://p.satfor.pro/picons/ru/planeta-hd.png" ,Планета HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/planeta-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://p.satfor.pro/picons/ru/dikaya-oxota-hd.png" ,Дикая охота HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dikaya-oxota-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://p.satfor.pro/picons/ru/dikaya-rybalka-hd.png" ,Дикая рыбалка HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dikaya-rybalka-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и Рыболов HD" tvg-logo="http://p.satfor.pro/picons/ru/ohotnikribolov.png" ,Охотник и Рыболов HD
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/oxotnik-i-rybolov-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://p.satfor.pro/picons/ru/dikiy.png" ,Дикий
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dikiy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="moya-planeta" tvg-name="Моя Планета" tvg-logo="http://p.satfor.pro/picons/ru/moya-planeta.png" ,Моя Планета
-#EXTGRP:Познавательные
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/moya-planeta/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kinopokaz-hd1" tvg-name="Шокирующее" tvg-logo="http://p.satfor.pro/picons/ru/shokiruyushchee.png",Шокирующее
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kinopokaz-hd1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kinopokaz-hd2" tvg-name="Комедийное HD" tvg-logo="http://p.satfor.pro/picons/ru/komediynoe.png",Комедийное HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kinopokaz-hd2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="paramount-comedy" tvg-name="Paramount Comedy" tvg-logo="http://p.satfor.pro/picons/ru/paramount_comedy.png",Paramount Comedy
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/paramount-comedy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="paramount-comedy-hd" tvg-name="Paramount Comedy HD" tvg-logo="http://p.satfor.pro/picons/ru/paramount_comedy.png",Paramount Comedy HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/paramount-comedy-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="foxHD" tvg-name="FOX HD" tvg-logo="http://p.satfor.pro/picons/ru/fox.png",FOX HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/foxHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="foxlife" tvg-name="Fox Life" tvg-logo="http://p.satfor.pro/picons/ru/foxlife.ru.png",Fox Life
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/foxlife/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="fox" tvg-name="Fox Russia" tvg-logo="http://p.satfor.pro/picons/ru/fox.png",Fox Russia
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/fox/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://p.satfor.pro/picons/ru/amedia1.png",Amedia 1
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/amedia1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://p.satfor.pro/picons/ru/amedia2.png",Amedia 2
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/amedia2/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://p.satfor.pro/picons/ru/amedia-hit.png",Amedia Hit
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/amedia-hit/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="amedia-premium" tvg-name="AMEDIA Premium HD" tvg-logo="http://p.satfor.pro/picons/ru/amedia-premium.png",AMEDIA Premium HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/amedia-premium/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://p.satfor.pro/picons/ru/dom-kino-premium.png",Дом Кино Премиум HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/domkino-premium/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://p.satfor.pro/picons/ru/eurokino.png",Еврокино
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/evrokino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kino-tv" tvg-name="КИНО ТВ" tvg-logo="http://p.satfor.pro/picons/ru/kino-tv.png",КИНО ТВ
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kino-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kino-tvhd" tvg-name="Кино ТВ HD" tvg-logo="http://p.satfor.pro/picons/ru/kino-tv.png",Кино ТВ HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kino-tvhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="lubimoe-kino" tvg-name="Любимое Кино" tvg-logo="http://p.satfor.pro/picons/ru/nashe-lubimoe-kino.png",Любимое Кино
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nashe-lubimoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="domkino" tvg-name="Дом Кино" tvg-logo="http://p.satfor.pro/picons/ru/dom-kino.png",Дом Кино
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/domkino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nash-kinoroman" tvg-name="Наш Кинороман HD" tvg-logo="http://p.satfor.pro/picons/ru/nashkinoroman.png",Наш Кинороман HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nash-kinoroman/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nash-detektiv" tvg-name="Наше Крутое HD" tvg-logo="http://p.satfor.pro/picons/ru/nashe-krutoe.png",Наше Крутое HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nash-detektiv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sony-scifi" tvg-name="SONY Sci-Fi" tvg-logo="http://p.satfor.pro/picons/ru/sony-scifi.png",SONY Sci-Fi
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sony-scifi/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://p.satfor.pro/picons/ru/strashnoe-hd.png",Страшное HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/strashnoe-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nst" tvg-name="НСТ" tvg-logo="http://p.satfor.pro/picons/ru/nst.png",НСТ
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nst/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://p.satfor.pro/picons/ru/hollywoodhd.png",Hollywood HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/hollywood-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sony-enter" tvg-name="Sony Entertainment Television" tvg-logo="http://p.satfor.pro/picons/ru/sonyentertainment.ru.png",Sony Entertainment Television
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sony-enter/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000" tvg-name="TV 1000" tvg-logo="http://p.satfor.pro/picons/ru/tv1000.png",TV 1000
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv1000/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000-action" tvg-name="TV1000 Action" tvg-logo="http://p.satfor.pro/picons/ru/tv1000action.png",TV1000 Action
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv1000-action/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000-comedy-hd" tvg-name="VIP Comedy" tvg-logo="http://p.satfor.pro/picons/ru/vip-comedy.png",VIP Comedy
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/vip-comedy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000-megahit-hd" tvg-name="VIP Megahit" tvg-logo="http://p.satfor.pro/picons/ru/vip-megahit.png",VIP Megahit
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/vip-megahit/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000-premium-hd" tvg-name="VIP Premiere" tvg-logo="http://p.satfor.pro/picons/ru/vip-premiere.png",VIP Premiere
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/vip-premiere/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000-russkoe-kino" tvg-name="TV1000 Русское кино" tvg-logo="http://p.satfor.pro/picons/ru/tv1000ruskino.png",TV1000 Русское кино
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv1000-russkoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tv1000-premium" tvg-name="TV1000 Premium HD" tvg-logo="http://p.satfor.pro/picons/ru/tv1000premium.png",TV1000 Premium HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tv1000-premium/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://p.satfor.pro/picons/ru/rusbestseller.png",Русский бестселлер
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/russky-bestseller/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://p.satfor.pro/picons/ru/rusdetektiv.png",Русский детектив
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/russky-detektiv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://p.satfor.pro/picons/ru/ruskomed.png",Русская комедия
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/russkaya-komedia/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="russky-illuzion" tvg-name="Русский Иллюзион" tvg-logo="http://p.satfor.pro/picons/ru/rusiluzion.png",Русский Иллюзион
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/russky-illuzion/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://p.satfor.pro/picons/ru/russky-roman.png",Русский роман
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/russky-roman/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kinopremium-hd" tvg-name="Кинопремиум HD" tvg-logo="http://p.satfor.pro/picons/ru/kinopremiumhd.png",Кинопремиум HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kinopremium-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://p.satfor.pro/picons/ru/ostrosuzet.png",Остросюжетное HD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ostrosiuzhetnoe-hd/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-id="uhd-cinema" tvg-name="Ultra HD Cinema" tvg-logo="http://p.satfor.pro/picons/ru/ultrahdsinema.png",Ultra HD Cinema
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ultra-hd-cinema/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-id="kino-ultra-hd" tvg-name="Кино UHD" tvg-logo="http://p.satfor.pro/picons/ru/uhd-kino.jpg",Кино UHD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kino-ultra-hd/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-id="serial-ultrahd" tvg-name="Сериал UHD" tvg-logo="http://p.satfor.pro/picons/ru/uhd-serial.jpg",Сериал UHD
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/serial-ultrahd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://p.satfor.pro/picons/ru/pobeda.png",Победа
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/pobeda/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://p.satfor.pro/picons/ru/ntv-serial.png",НТВ Сериал
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ntv-serial/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mir-seriala" tvg-name="Мир Сериала" tvg-logo="http://p.satfor.pro/picons/ru/mir-seriala.png",Мир Сериала
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mir-seriala/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="spike" tvg-name="Spike Russia" tvg-logo="http://p.satfor.pro/picons/ru/spike.png",Spike Russia
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/spike/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://p.satfor.pro/picons/ru/shottv.png",SHOT TV
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/shot-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sony-turbo" tvg-name="Sony Turbo" tvg-logo="http://p.satfor.pro/picons/ru/sony-turbo.png",Sony Turbo
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sony-turbo/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="paramount-channel" tvg-name="Paramount Channel" tvg-logo="http://p.satfor.pro/picons/ru/paramount-channel.png",Paramount Channel
-#EXTGRP:Кино
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/paramount-channel/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="konny-mir" tvg-name="Конный мир HD" tvg-logo="http://p.satfor.pro/picons/ru/konniymir.png",Конный мир HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/konny-mir/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="viasat-sport" tvg-name="Viasat Sport" tvg-logo="http://p.satfor.pro/picons/ru/viasatsport.ru.png",Viasat Sport
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/viasat-sport/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="viasat-sport" tvg-name="Viasat Sport HD" tvg-logo="http://p.satfor.pro/picons/ru/viasatsport.ru.png",Viasat Sport HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/viasat-sporthd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-boets" tvg-name="МАТЧ! Боец" tvg-logo="http://p.satfor.pro/picons/ru/match-boec.png",МАТЧ! Боец
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-boets/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-nash-sport" tvg-name="МАТЧ! Страна" tvg-logo="http://p.satfor.pro/picons/ru/match-strana.png",МАТЧ! Страна
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-nash-sport/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://p.satfor.pro/picons/ru/match.png",Матч ТВ
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-tvhd" tvg-name="Матч! HD" tvg-logo="http://p.satfor.pro/picons/ru/match.png",Матч! HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-tvhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-arena" tvg-name="МАТЧ! Арена" tvg-logo="http://p.satfor.pro/picons/ru/match-arena.png",МАТЧ! Арена
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-arena/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-arena" tvg-name="МАТЧ! Арена HD" tvg-logo="http://p.satfor.pro/picons/ru/match-arena.png",МАТЧ! Арена HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-arenahd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-igra" tvg-name="МАТЧ! Игра" tvg-logo="http://p.satfor.pro/picons/ru/match-igra.png",МАТЧ! Игра
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-igra/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-igra" tvg-name="МАТЧ! Игра HD" tvg-logo="http://p.satfor.pro/picons/ru/match-igra.png",МАТЧ! Игра HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-igrahd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-planeta" tvg-name="МАТЧ! Планета" tvg-logo="http://p.satfor.pro/picons/ru/match-planeta.png",МАТЧ! Планета
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-planeta/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-football1" tvg-name="МАТЧ! Футбол 1" tvg-logo="http://p.satfor.pro/picons/ru/match-football-1.png",МАТЧ! Футбол 1
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-football1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-football1" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="http://p.satfor.pro/picons/ru/match-football-1.png",МАТЧ! Футбол 1 HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-football1hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-football2" tvg-name="МАТЧ! Футбол 2" tvg-logo="http://p.satfor.pro/picons/ru/match-football-2.png",МАТЧ! Футбол 2
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-football2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-football2" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="http://p.satfor.pro/picons/ru/match-football-2.png",МАТЧ! Футбол 2 HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-football2hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-football3" tvg-name="МАТЧ! Футбол 3" tvg-logo="http://p.satfor.pro/picons/ru/match-football-3.png",МАТЧ! Футбол 3
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-football3/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://p.satfor.pro/picons/ru/match-football-3.png",Матч! Футбол 3 HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-football3hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-premier" tvg-name="МАТЧ ПРЕМЬЕР" tvg-logo="http://p.satfor.pro/picons/ru/match-premiere.png",МАТЧ ПРЕМЬЕР
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-premier/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="match-premier" tvg-name="МАТЧ ПРЕМЬЕР HD" tvg-logo="http://p.satfor.pro/picons/ru/match-premiere.png",МАТЧ ПРЕМЬЕР HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/match-premierhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://p.satfor.pro/picons/ru/box-tv.png",Бокс ТВ
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/box-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="ufc" tvg-name="UFC ТВ" tvg-logo="http://p.satfor.pro/picons/ru/ufctv.png",UFC ТВ
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ufc/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kxl" tvg-name="КХЛ" tvg-logo="http://p.satfor.pro/picons/ru/khl.png",КХЛ
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kxl/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kxl-hd" tvg-name="КХЛ HD" tvg-logo="http://p.satfor.pro/picons/ru/khl.png",КХЛ HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kxl-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="eurosport1-ru" tvg-name="Eurosport" tvg-logo="http://p.satfor.pro/picons/ru/eurosport1.ru.png",Eurosport
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eurosport1-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://p.satfor.pro/picons/ru/eurosport1.ru.png",Eurosport 1 HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eurosport1hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="eurosport2-ru" tvg-name="Eurosport 2 HD" tvg-logo="http://p.satfor.pro/picons/ru/eurosport2.ru.png",Eurosport 2 HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eurosport2HD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="eurosport-gold" tvg-name="Eurosport Gold HD" tvg-logo="http://p.satfor.pro/picons/ru/eurosportgold.png",Eurosport Gold HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eurosport-gold/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-id="eurosport-4k" tvg-name="Eurosport 4K" tvg-logo="http://p.satfor.pro/picons/ru/eurosport_4k.png",Eurosport 4K
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/eurosport-4k/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="extreme-sports" tvg-name="Extreme Sport" tvg-logo="http://p.satfor.pro/picons/ru/extremesports.ru.png",Extreme Sport
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/extreme-sports/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="russky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="http://p.satfor.pro/picons/ru/russky-ekstrim.png",Русский Экстрим
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/russky-ekstrim/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://p.satfor.pro/picons/ru/tochka-otryva.png",Точка отрыва
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tochka-otryva/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="setanta-sports-plus" tvg-name="Сетанта Спорт 2" tvg-logo="http://p.satfor.pro/picons/ru/setanta-sports-plus.png",Сетанта Спорт 2
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/setanta-sports-plus/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="setanta-sports" tvg-name="Сетанта Спорт" tvg-logo="http://p.satfor.pro/picons/ru/setanta-sports.png",Сетанта Спорт
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/setanta-sports/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="football-ru" tvg-name="Футбол HD" tvg-logo="http://p.satfor.pro/picons/ru/futbol.png",Футбол HD
-#EXTGRP:Спорт
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/football-ru/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="mtv-russia" tvg-name="MTV" tvg-logo="http://p.satfor.pro/picons/ru/mtv.ru.png" ,MTV
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mtv-russia/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="mtv-live" tvg-name="MTV Live HD" tvg-logo="" ,MTV Live HD
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mtv-live/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="mtv-dance" tvg-name="MTV Dance" tvg-logo="http://p.satfor.pro/picons/ru/mtv_dance.png" ,MTV Dance
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mtv-dance/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="mtv-hits" tvg-name="MTV HITS" tvg-logo="http://p.satfor.pro/picons/ru/mtv_hits.png" ,MTV HITS
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mtv-hits/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="mtv-rocks" tvg-name="MTV Rocks" tvg-logo="http://p.satfor.pro/picons/ru/mtv_rocks.png" ,MTV Rocks
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mtv-rocks/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="muzyka-pervogo" tvg-name="Музыка первого" tvg-logo="http://p.satfor.pro/picons/ru/muzyka-pervogo.png" ,Музыка первого
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/muzyka-pervogo/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://p.satfor.pro/picons/ru/europaplustv.png" ,Europa Plus TV
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/europa-plus-tv/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="nashe-tv" tvg-name="Наше ТВ" tvg-logo="http://p.satfor.pro/picons/ru/nashetv.png" ,Наше ТВ
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nashe-tv/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="muz-tv" tvg-name="МУЗ" tvg-logo="http://p.satfor.pro/picons/ru/muztv.png" ,МУЗ
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/muztv/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="http://p.satfor.pro/picons/ru/rutv.png" ,RU.TV
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/ru-tv/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://p.satfor.pro/picons/ru/bridge-tv.png" ,Bridge TV
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/bridge-tv/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="bridge-tv-dance" tvg-name="Bridge TV Dance" tvg-logo="http://p.satfor.pro/picons/ru/bridgetvdance.png" ,Bridge TV Dance
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/bridge-tv-dance/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="bridge-hd" tvg-name="BRIDGE HD" tvg-logo="http://p.satfor.pro/picons/ru/bridgehd.png" ,BRIDGE HD
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/bridge-hd/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tnt-music" tvg-name="ТНТ MUSIC" tvg-logo="http://p.satfor.pro/picons/ru/tnt-music.png" ,ТНТ MUSIC
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tnt-music/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="bridge-tv-ruxit" tvg-name="BRIDGE TV Русский Хит" tvg-logo="http://p.satfor.pro/picons/ru/bridgetvrusxit.png" ,BRIDGE TV Русский Хит
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/bridge-tv-ruxit/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="zhara" tvg-name="Жара" tvg-logo="http://p.satfor.pro/picons/ru/zara.png" ,Жара
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/zhara/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="bridge-tv-classic" tvg-name="BRIDGE TV Classic" tvg-logo="http://p.satfor.pro/picons/ru/bridgetvclassic.png" ,BRIDGE TV Classic
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/bridge-tv-classic/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="vh1-classic" tvg-name="VH-1 Classic" tvg-logo="http://p.satfor.pro/picons/ru/vh1-classic.png" ,VH-1 Classic
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/vh1-classic/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="iconcerts" tvg-name="iConcerts HD" tvg-logo="http://p.satfor.pro/picons/ru/iconcerts.png" ,iConcerts HD
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/iconcerts/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://p.satfor.pro/picons/ru/mcm-top.png" ,MCM Top
-#EXTGRP:Музыка
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mcm-top/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://p.satfor.pro/picons/ru/cartoonnetwork.ru.png",Cartoon Network
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/cartoon-network/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="disney" tvg-name="Disney" tvg-logo="http://p.satfor.pro/picons/ru/disney_channel.png",Disney
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/disney/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mult" tvg-name="Мульт" tvg-logo="http://p.satfor.pro/picons/ru/mult.png",Мульт
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mult/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="kapitan-fantastika " tvg-name="Kapitan Fantastika HD" tvg-logo="http://p.satfor.pro/picons/ru/kapitan_fantastika.png",Kapitan Fantastika HD
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/kapitan-fantastika/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="gulli-girl" tvg-name="Gulli Girls" tvg-logo="http://p.satfor.pro/picons/ru/gulligirl.png",Gulli Girls
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/gulli-girl/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="2na2" tvg-name="2x2" tvg-logo="http://p.satfor.pro/picons/ru/2x2.png",2x2
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/2na2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="http://p.satfor.pro/picons/ru/boomerang.ru.png",Boomerang
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/boomerang/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://p.satfor.pro/picons/ru/karusel.png",Карусель
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/karusel/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://p.satfor.pro/picons/ru/detmir.png",Детский мир
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/detsky-mir/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="http://p.satfor.pro/picons/ru/nick-jr.png",Nick Jr.
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nick-jr/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="o_" tvg-name="O!" tvg-logo="http://p.satfor.pro/picons/ru/o!.png",O!
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/o_/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="jimjam" tvg-name="Jim Jam" tvg-logo="http://p.satfor.pro/picons/ru/jimjam.ru.png",Jim Jam
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/jimjam/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="http://p.satfor.pro/picons/ru/nickelodeon.png",Nickelodeon
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nickelodeon-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="nickelodeon-hd" tvg-name="Nickelodeon HD" tvg-logo="http://p.satfor.pro/picons/ru/nickelodeon.png",Nickelodeon HD
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/nickelodeon-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://p.satfor.pro/picons/ru/tiji.png",Tiji TV
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tiji/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="tlum-hd" tvg-name="Тлум HD" tvg-logo="http://p.satfor.pro/picons/ru/tlumhd.png",Тлум HD
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/tlum-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://p.satfor.pro/picons/ru/stskids.png",СТС Kids HD
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/sts-kids-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="multik-hd" tvg-name="Мультик HD" tvg-logo="http://p.satfor.pro/picons/ru/multik-hd.png",Мультик HD
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/multik-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="multimuzyka" tvg-name="Мультимузыка" tvg-logo="http://p.satfor.pro/picons/ru/multimuzyka.png",Мультимузыка
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/multimuzyka/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="detsky" tvg-name="Детский" tvg-logo="http://p.satfor.pro/picons/ru/detskiy.png",Детский
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/detsky/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="mama" tvg-name="Мама" tvg-logo="http://p.satfor.pro/picons/ru/mama.png",Мама
-#EXTGRP:Детские
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/mama/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://p.satfor.pro/picons/ru/rtvi.png",RTVi
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rtvi/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="dozd" tvg-name="Дождь" tvg-logo="http://p.satfor.pro/picons/ru/dozhd.png",Дождь
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dozd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="dozdhd" tvg-name="Дождь HD" tvg-logo="http://p.satfor.pro/picons/ru/dozhd.png",Дождь HD
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dozhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="http://p.satfor.pro/picons/ru/moskva24.png",Москва 24
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/moskva-24/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rbk" tvg-name="РБК" tvg-logo="http://p.satfor.pro/picons/ru/rbk.png",РБК
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rbk/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="360-podmoskovie" tvg-name="360° Подмосковье" tvg-logo="http://p.satfor.pro/picons/ru/360-podmoskovie.png",360° Подмосковье
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/360-podmoskovie/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="euronews" tvg-name="Euronews" tvg-logo="http://p.satfor.pro/picons/ru/euronews.ru.png",Euronews
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/euronews/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://p.satfor.pro/picons/ru/rossia24.png",Россия-24
-#EXTGRP:Новости
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/rossia-24/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="" tvg-name="DFM" tvg-logo="http://p.satfor.pro/picons/220x132/1_0_2_2EB_7_70_1680000_0_0_0.png" group-title="Радио",DFM
-#EXTGRP:Радио
-http://ott.shara.me:80/live/s.206378.2da55baef8aa4a80f0b63286721c40f3303/dfm_radio/video.m3u8
